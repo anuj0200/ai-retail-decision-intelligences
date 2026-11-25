@@ -1,0 +1,4962 @@
+customer_id,segment
+1,Champions
+3,"Lost or Sleeping"
+4,Champions
+5,"Lost or Sleeping"
+6,"Lost or Sleeping"
+7,"New or Occasional"
+9,"New or Occasional"
+10,"Lost or Sleeping"
+11,"Lost or Sleeping"
+12,Champions
+14,Champions
+15,Champions
+16,"At Risk"
+17,Champions
+18,"New or Occasional"
+19,Champions
+21,"Lost or Sleeping"
+22,"Lost or Sleeping"
+23,Champions
+24,"Lost or Sleeping"
+25,Champions
+26,"New or Occasional"
+28,Champions
+29,"New or Occasional"
+30,"Lost or Sleeping"
+32,Champions
+33,Champions
+35,"Lost or Sleeping"
+36,"Lost or Sleeping"
+37,"Lost or Sleeping"
+38,Champions
+39,"New or Occasional"
+40,"At Risk"
+41,"At Risk"
+43,"New or Occasional"
+44,"Lost or Sleeping"
+45,Champions
+46,"New or Occasional"
+47,"Lost or Sleeping"
+48,"Lost or Sleeping"
+49,"Lost or Sleeping"
+51,Champions
+52,"At Risk"
+53,Champions
+54,"Lost or Sleeping"
+55,Champions
+58,Champions
+59,Champions
+60,"Lost or Sleeping"
+61,"Lost or Sleeping"
+62,Champions
+63,Champions
+64,"New or Occasional"
+65,"At Risk"
+66,"New or Occasional"
+67,Champions
+68,Champions
+69,"Lost or Sleeping"
+70,"Lost or Sleeping"
+71,"At Risk"
+73,Champions
+75,"At Risk"
+76,"Lost or Sleeping"
+78,Champions
+79,Champions
+80,Champions
+81,Champions
+83,"Lost or Sleeping"
+84,"New or Occasional"
+86,"Lost or Sleeping"
+88,"Lost or Sleeping"
+89,Champions
+90,Champions
+91,"At Risk"
+92,Champions
+93,Champions
+94,"At Risk"
+95,"At Risk"
+96,"New or Occasional"
+98,"Lost or Sleeping"
+99,"Lost or Sleeping"
+102,Champions
+103,"New or Occasional"
+104,"At Risk"
+105,Champions
+106,Champions
+107,Champions
+108,"New or Occasional"
+109,"Lost or Sleeping"
+110,"Lost or Sleeping"
+111,"At Risk"
+112,Champions
+113,Champions
+114,Champions
+115,Champions
+117,"Lost or Sleeping"
+118,"Lost or Sleeping"
+119,"At Risk"
+121,Champions
+122,"Lost or Sleeping"
+123,"Lost or Sleeping"
+124,"Lost or Sleeping"
+125,Champions
+126,Champions
+127,Champions
+128,Champions
+129,"At Risk"
+130,Champions
+131,Champions
+132,"New or Occasional"
+133,Champions
+134,"New or Occasional"
+136,Champions
+137,"Lost or Sleeping"
+138,"Lost or Sleeping"
+141,"Lost or Sleeping"
+143,"Lost or Sleeping"
+144,"At Risk"
+145,"At Risk"
+147,"New or Occasional"
+148,Champions
+149,"Lost or Sleeping"
+150,Champions
+152,"Lost or Sleeping"
+153,"Lost or Sleeping"
+154,Champions
+155,Champions
+156,"Lost or Sleeping"
+157,"At Risk"
+158,"Lost or Sleeping"
+160,Champions
+161,"Lost or Sleeping"
+162,Champions
+163,"New or Occasional"
+164,Champions
+165,"New or Occasional"
+166,Champions
+167,"At Risk"
+168,"At Risk"
+169,"Lost or Sleeping"
+170,"At Risk"
+171,"Lost or Sleeping"
+173,Champions
+174,Champions
+175,"Lost or Sleeping"
+176,"New or Occasional"
+177,"Lost or Sleeping"
+178,"New or Occasional"
+179,Champions
+180,"New or Occasional"
+181,"Lost or Sleeping"
+182,"New or Occasional"
+183,"Lost or Sleeping"
+184,"Lost or Sleeping"
+185,Champions
+188,Champions
+189,"At Risk"
+190,"At Risk"
+191,Champions
+192,"At Risk"
+193,"New or Occasional"
+195,"Lost or Sleeping"
+198,Champions
+199,"At Risk"
+200,"At Risk"
+201,"At Risk"
+202,"Lost or Sleeping"
+203,"New or Occasional"
+205,Champions
+207,"Lost or Sleeping"
+208,Champions
+209,"Lost or Sleeping"
+211,"New or Occasional"
+212,"New or Occasional"
+213,"Lost or Sleeping"
+214,"Lost or Sleeping"
+215,"Lost or Sleeping"
+216,"Lost or Sleeping"
+217,"At Risk"
+218,"At Risk"
+219,Champions
+220,"New or Occasional"
+222,"Lost or Sleeping"
+224,"Lost or Sleeping"
+225,"Lost or Sleeping"
+226,Champions
+227,"Lost or Sleeping"
+229,Champions
+230,"Lost or Sleeping"
+231,Champions
+232,Champions
+233,Champions
+234,"New or Occasional"
+235,"Lost or Sleeping"
+237,"Lost or Sleeping"
+238,"Lost or Sleeping"
+239,"Lost or Sleeping"
+240,"Lost or Sleeping"
+241,Champions
+242,"Lost or Sleeping"
+243,"Lost or Sleeping"
+244,"Lost or Sleeping"
+245,"Lost or Sleeping"
+246,"Lost or Sleeping"
+247,"At Risk"
+248,"New or Occasional"
+249,"At Risk"
+250,"At Risk"
+251,"New or Occasional"
+252,Champions
+253,"New or Occasional"
+254,"At Risk"
+255,"Lost or Sleeping"
+256,Champions
+257,"At Risk"
+258,Champions
+259,"Lost or Sleeping"
+261,"At Risk"
+262,"Lost or Sleeping"
+263,Champions
+264,"New or Occasional"
+265,"Lost or Sleeping"
+267,"New or Occasional"
+268,"New or Occasional"
+270,"Lost or Sleeping"
+271,Champions
+272,Champions
+273,Champions
+274,Champions
+275,Champions
+276,Champions
+277,Champions
+278,Champions
+279,Champions
+280,"New or Occasional"
+281,"Lost or Sleeping"
+282,"New or Occasional"
+285,Champions
+286,"At Risk"
+287,"New or Occasional"
+288,"Lost or Sleeping"
+290,Champions
+291,"Lost or Sleeping"
+292,"At Risk"
+293,Champions
+294,"New or Occasional"
+295,Champions
+296,Champions
+297,Champions
+298,"New or Occasional"
+299,Champions
+300,"At Risk"
+301,"New or Occasional"
+303,"Lost or Sleeping"
+304,Champions
+306,"Lost or Sleeping"
+307,"New or Occasional"
+308,Champions
+309,Champions
+311,"Lost or Sleeping"
+312,"New or Occasional"
+313,"Lost or Sleeping"
+315,"At Risk"
+317,Champions
+318,"Lost or Sleeping"
+320,Champions
+321,"Lost or Sleeping"
+322,"New or Occasional"
+323,"At Risk"
+324,Champions
+325,Champions
+326,"Lost or Sleeping"
+327,"New or Occasional"
+328,"Lost or Sleeping"
+329,"At Risk"
+330,"Lost or Sleeping"
+331,"Lost or Sleeping"
+332,"Lost or Sleeping"
+333,"Lost or Sleeping"
+334,"New or Occasional"
+335,"Lost or Sleeping"
+336,"New or Occasional"
+337,"New or Occasional"
+338,Champions
+339,Champions
+341,Champions
+342,"Lost or Sleeping"
+343,"Lost or Sleeping"
+344,"Lost or Sleeping"
+346,Champions
+347,"New or Occasional"
+348,"New or Occasional"
+349,Champions
+350,Champions
+352,Champions
+353,Champions
+354,"At Risk"
+355,"New or Occasional"
+356,"Lost or Sleeping"
+357,"Lost or Sleeping"
+358,"Lost or Sleeping"
+360,Champions
+361,"Lost or Sleeping"
+365,"At Risk"
+366,"Lost or Sleeping"
+367,Champions
+368,"New or Occasional"
+369,"Lost or Sleeping"
+371,"At Risk"
+372,"At Risk"
+376,"At Risk"
+377,"Lost or Sleeping"
+379,Champions
+380,"Lost or Sleeping"
+381,"Lost or Sleeping"
+383,"Lost or Sleeping"
+385,Champions
+386,Champions
+387,"Lost or Sleeping"
+388,"Lost or Sleeping"
+389,"New or Occasional"
+390,Champions
+391,"Lost or Sleeping"
+392,"Lost or Sleeping"
+393,Champions
+394,"Lost or Sleeping"
+395,Champions
+396,"New or Occasional"
+398,"New or Occasional"
+399,Champions
+401,"At Risk"
+402,"Lost or Sleeping"
+403,"Lost or Sleeping"
+404,"New or Occasional"
+406,"At Risk"
+407,"Lost or Sleeping"
+408,"New or Occasional"
+410,"At Risk"
+411,Champions
+413,Champions
+414,Champions
+415,"At Risk"
+416,Champions
+417,Champions
+419,Champions
+420,Champions
+421,"Lost or Sleeping"
+422,"Lost or Sleeping"
+423,"Lost or Sleeping"
+424,"Lost or Sleeping"
+425,"Lost or Sleeping"
+426,Champions
+427,"Lost or Sleeping"
+428,"At Risk"
+429,"Lost or Sleeping"
+430,"New or Occasional"
+433,"Lost or Sleeping"
+434,Champions
+435,"Lost or Sleeping"
+436,"Lost or Sleeping"
+437,Champions
+438,Champions
+439,Champions
+440,"At Risk"
+442,Champions
+444,Champions
+445,Champions
+446,"New or Occasional"
+447,"New or Occasional"
+449,Champions
+450,"At Risk"
+452,"Lost or Sleeping"
+453,"At Risk"
+454,Champions
+455,"Lost or Sleeping"
+456,"At Risk"
+458,"Lost or Sleeping"
+460,"Lost or Sleeping"
+461,"Lost or Sleeping"
+462,"Lost or Sleeping"
+464,Champions
+465,"New or Occasional"
+466,"At Risk"
+468,"At Risk"
+469,"New or Occasional"
+470,Champions
+471,"New or Occasional"
+474,Champions
+475,"Lost or Sleeping"
+476,"Lost or Sleeping"
+477,Champions
+478,"New or Occasional"
+479,Champions
+480,"At Risk"
+482,"New or Occasional"
+483,"New or Occasional"
+484,"Lost or Sleeping"
+485,"Lost or Sleeping"
+486,Champions
+487,Champions
+489,Champions
+490,"At Risk"
+491,"New or Occasional"
+494,Champions
+495,Champions
+496,"Lost or Sleeping"
+497,"At Risk"
+498,"New or Occasional"
+499,"New or Occasional"
+500,"New or Occasional"
+501,Champions
+502,"Lost or Sleeping"
+504,"Lost or Sleeping"
+506,"Lost or Sleeping"
+507,"Lost or Sleeping"
+508,"New or Occasional"
+509,"New or Occasional"
+510,Champions
+511,"New or Occasional"
+512,"Lost or Sleeping"
+513,"Lost or Sleeping"
+514,"New or Occasional"
+515,"New or Occasional"
+516,"New or Occasional"
+517,"Lost or Sleeping"
+518,Champions
+521,"Lost or Sleeping"
+522,"New or Occasional"
+523,"New or Occasional"
+525,"Lost or Sleeping"
+526,"New or Occasional"
+527,"At Risk"
+529,"Lost or Sleeping"
+530,"At Risk"
+532,Champions
+533,"Lost or Sleeping"
+534,"New or Occasional"
+535,Champions
+537,"At Risk"
+538,"At Risk"
+539,Champions
+542,"At Risk"
+543,Champions
+544,"Lost or Sleeping"
+545,Champions
+547,"Lost or Sleeping"
+549,"Lost or Sleeping"
+550,"New or Occasional"
+551,"Lost or Sleeping"
+552,Champions
+553,"Lost or Sleeping"
+554,Champions
+556,"New or Occasional"
+557,Champions
+559,Champions
+560,Champions
+564,"At Risk"
+565,"At Risk"
+566,"Lost or Sleeping"
+567,"At Risk"
+569,Champions
+570,"New or Occasional"
+571,"New or Occasional"
+573,"Lost or Sleeping"
+574,"Lost or Sleeping"
+575,Champions
+576,"New or Occasional"
+577,"Lost or Sleeping"
+578,Champions
+579,"Lost or Sleeping"
+581,"Lost or Sleeping"
+582,"Lost or Sleeping"
+584,Champions
+586,"New or Occasional"
+587,"Lost or Sleeping"
+588,Champions
+589,"At Risk"
+590,"Lost or Sleeping"
+591,Champions
+592,Champions
+593,"Lost or Sleeping"
+594,"Lost or Sleeping"
+595,"Lost or Sleeping"
+598,Champions
+599,"Lost or Sleeping"
+600,"New or Occasional"
+601,"Lost or Sleeping"
+602,"At Risk"
+603,"Lost or Sleeping"
+604,"Lost or Sleeping"
+605,"At Risk"
+606,"New or Occasional"
+607,"New or Occasional"
+608,Champions
+609,"Lost or Sleeping"
+610,"New or Occasional"
+611,"Lost or Sleeping"
+612,"New or Occasional"
+613,"Lost or Sleeping"
+614,"At Risk"
+615,"At Risk"
+616,"Lost or Sleeping"
+617,"Lost or Sleeping"
+618,"Lost or Sleeping"
+619,"At Risk"
+621,"Lost or Sleeping"
+622,Champions
+623,Champions
+624,"Lost or Sleeping"
+625,"Lost or Sleeping"
+626,"Lost or Sleeping"
+627,"New or Occasional"
+628,Champions
+629,"Lost or Sleeping"
+631,Champions
+633,"Lost or Sleeping"
+634,"Lost or Sleeping"
+635,"New or Occasional"
+638,Champions
+640,"Lost or Sleeping"
+641,"Lost or Sleeping"
+642,"Lost or Sleeping"
+643,Champions
+645,"Lost or Sleeping"
+646,"Lost or Sleeping"
+647,"Lost or Sleeping"
+648,"Lost or Sleeping"
+649,"Lost or Sleeping"
+650,"Lost or Sleeping"
+651,"At Risk"
+652,"At Risk"
+653,"At Risk"
+655,"New or Occasional"
+656,Champions
+657,"Lost or Sleeping"
+658,"At Risk"
+659,"Lost or Sleeping"
+660,Champions
+661,Champions
+662,"Lost or Sleeping"
+663,"Lost or Sleeping"
+664,"Lost or Sleeping"
+665,"At Risk"
+666,"At Risk"
+667,"Lost or Sleeping"
+668,Champions
+670,"New or Occasional"
+671,"At Risk"
+672,"Lost or Sleeping"
+673,"At Risk"
+674,"New or Occasional"
+675,"Lost or Sleeping"
+676,Champions
+677,Champions
+678,Champions
+679,"At Risk"
+681,Champions
+682,Champions
+683,"At Risk"
+684,"Lost or Sleeping"
+685,"Lost or Sleeping"
+686,"New or Occasional"
+687,Champions
+688,"Lost or Sleeping"
+691,Champions
+692,"Lost or Sleeping"
+693,"New or Occasional"
+694,"New or Occasional"
+695,"New or Occasional"
+696,"Lost or Sleeping"
+697,Champions
+699,"Lost or Sleeping"
+700,Champions
+701,"Lost or Sleeping"
+702,Champions
+704,"Lost or Sleeping"
+705,"Lost or Sleeping"
+706,Champions
+707,Champions
+708,"At Risk"
+709,"Lost or Sleeping"
+710,"At Risk"
+711,"Lost or Sleeping"
+712,"Lost or Sleeping"
+715,"New or Occasional"
+718,"Lost or Sleeping"
+719,Champions
+721,"At Risk"
+722,"Lost or Sleeping"
+724,"Lost or Sleeping"
+725,Champions
+726,"New or Occasional"
+727,"Lost or Sleeping"
+728,"Lost or Sleeping"
+729,"New or Occasional"
+730,"Lost or Sleeping"
+731,Champions
+732,Champions
+733,"New or Occasional"
+735,"At Risk"
+736,"New or Occasional"
+737,"Lost or Sleeping"
+739,"New or Occasional"
+741,Champions
+742,"At Risk"
+743,"At Risk"
+744,"At Risk"
+745,"Lost or Sleeping"
+746,Champions
+748,"Lost or Sleeping"
+749,"At Risk"
+752,Champions
+753,Champions
+754,Champions
+755,"Lost or Sleeping"
+757,Champions
+760,Champions
+761,"New or Occasional"
+762,Champions
+763,"New or Occasional"
+764,"New or Occasional"
+765,"At Risk"
+766,"Lost or Sleeping"
+767,Champions
+768,Champions
+769,"Lost or Sleeping"
+770,"Lost or Sleeping"
+771,"Lost or Sleeping"
+772,"At Risk"
+773,"Lost or Sleeping"
+775,"New or Occasional"
+776,Champions
+777,Champions
+778,Champions
+779,"New or Occasional"
+780,"Lost or Sleeping"
+782,Champions
+784,"Lost or Sleeping"
+785,"At Risk"
+787,Champions
+788,"Lost or Sleeping"
+790,"Lost or Sleeping"
+791,Champions
+792,"Lost or Sleeping"
+793,"At Risk"
+794,Champions
+795,Champions
+797,"New or Occasional"
+798,Champions
+800,"At Risk"
+803,"Lost or Sleeping"
+804,"At Risk"
+805,"New or Occasional"
+807,Champions
+809,"Lost or Sleeping"
+810,"At Risk"
+811,"At Risk"
+812,Champions
+813,Champions
+814,"At Risk"
+815,"At Risk"
+816,"Lost or Sleeping"
+817,"At Risk"
+819,"Lost or Sleeping"
+820,"At Risk"
+821,Champions
+822,"At Risk"
+823,"At Risk"
+824,"Lost or Sleeping"
+825,Champions
+826,Champions
+827,Champions
+828,"Lost or Sleeping"
+829,"Lost or Sleeping"
+830,"Lost or Sleeping"
+831,"New or Occasional"
+832,"Lost or Sleeping"
+833,"At Risk"
+834,"Lost or Sleeping"
+835,"Lost or Sleeping"
+836,Champions
+837,"Lost or Sleeping"
+838,Champions
+840,"At Risk"
+841,"At Risk"
+842,"At Risk"
+845,"Lost or Sleeping"
+846,"Lost or Sleeping"
+847,"Lost or Sleeping"
+849,Champions
+850,"New or Occasional"
+852,"At Risk"
+854,"Lost or Sleeping"
+855,"Lost or Sleeping"
+856,"At Risk"
+857,"At Risk"
+858,"Lost or Sleeping"
+859,"Lost or Sleeping"
+860,"At Risk"
+861,Champions
+862,"New or Occasional"
+863,"Lost or Sleeping"
+864,"New or Occasional"
+865,Champions
+867,"Lost or Sleeping"
+868,"New or Occasional"
+869,"At Risk"
+870,"New or Occasional"
+871,Champions
+872,Champions
+873,Champions
+874,Champions
+875,"Lost or Sleeping"
+876,Champions
+877,Champions
+878,"New or Occasional"
+879,Champions
+880,"At Risk"
+881,"New or Occasional"
+882,"New or Occasional"
+883,"New or Occasional"
+884,"At Risk"
+885,"New or Occasional"
+887,"At Risk"
+888,Champions
+889,Champions
+890,Champions
+891,"Lost or Sleeping"
+892,Champions
+894,"Lost or Sleeping"
+895,"Lost or Sleeping"
+896,Champions
+897,"Lost or Sleeping"
+898,"Lost or Sleeping"
+899,Champions
+902,"At Risk"
+903,"Lost or Sleeping"
+904,"At Risk"
+905,"New or Occasional"
+906,"At Risk"
+907,Champions
+908,"Lost or Sleeping"
+909,"At Risk"
+910,Champions
+911,"New or Occasional"
+912,"Lost or Sleeping"
+913,"Lost or Sleeping"
+914,"Lost or Sleeping"
+915,"At Risk"
+916,"Lost or Sleeping"
+917,Champions
+918,"Lost or Sleeping"
+919,"Lost or Sleeping"
+920,Champions
+922,"New or Occasional"
+924,Champions
+925,"Lost or Sleeping"
+926,"Lost or Sleeping"
+927,Champions
+928,Champions
+930,"Lost or Sleeping"
+931,"At Risk"
+932,Champions
+933,"Lost or Sleeping"
+934,Champions
+935,"At Risk"
+936,"New or Occasional"
+937,"At Risk"
+938,Champions
+940,Champions
+941,"Lost or Sleeping"
+942,Champions
+943,"Lost or Sleeping"
+944,"At Risk"
+945,"Lost or Sleeping"
+946,Champions
+947,Champions
+950,"Lost or Sleeping"
+952,Champions
+954,"Lost or Sleeping"
+955,"Lost or Sleeping"
+956,Champions
+957,"Lost or Sleeping"
+958,Champions
+959,Champions
+960,Champions
+962,"New or Occasional"
+963,"Lost or Sleeping"
+965,"New or Occasional"
+966,Champions
+968,"At Risk"
+969,Champions
+971,"Lost or Sleeping"
+973,"At Risk"
+975,"New or Occasional"
+976,"At Risk"
+977,Champions
+978,"Lost or Sleeping"
+979,Champions
+980,Champions
+981,"New or Occasional"
+982,"Lost or Sleeping"
+983,"New or Occasional"
+984,Champions
+985,"Lost or Sleeping"
+986,"New or Occasional"
+987,"At Risk"
+988,"Lost or Sleeping"
+989,Champions
+991,"Lost or Sleeping"
+992,"At Risk"
+993,"New or Occasional"
+994,"Lost or Sleeping"
+995,"Lost or Sleeping"
+996,"Lost or Sleeping"
+997,Champions
+998,"Lost or Sleeping"
+999,"New or Occasional"
+1000,"At Risk"
+1003,"New or Occasional"
+1004,"At Risk"
+1005,"Lost or Sleeping"
+1006,Champions
+1007,Champions
+1008,"Lost or Sleeping"
+1009,"New or Occasional"
+1010,Champions
+1011,Champions
+1012,"At Risk"
+1014,"Lost or Sleeping"
+1015,"At Risk"
+1016,Champions
+1017,Champions
+1018,"New or Occasional"
+1019,Champions
+1022,"New or Occasional"
+1024,"Lost or Sleeping"
+1026,Champions
+1027,"New or Occasional"
+1029,"Lost or Sleeping"
+1030,"At Risk"
+1031,Champions
+1032,Champions
+1033,"New or Occasional"
+1034,"New or Occasional"
+1035,"At Risk"
+1036,Champions
+1037,"Lost or Sleeping"
+1039,Champions
+1040,"New or Occasional"
+1041,Champions
+1042,Champions
+1043,Champions
+1044,Champions
+1047,"Lost or Sleeping"
+1048,Champions
+1049,"Lost or Sleeping"
+1050,Champions
+1053,"At Risk"
+1054,"Lost or Sleeping"
+1055,Champions
+1056,"At Risk"
+1057,"Lost or Sleeping"
+1058,Champions
+1059,"Lost or Sleeping"
+1060,"New or Occasional"
+1061,"New or Occasional"
+1062,"Lost or Sleeping"
+1063,"New or Occasional"
+1064,"New or Occasional"
+1065,Champions
+1066,"At Risk"
+1067,Champions
+1068,"At Risk"
+1069,"Lost or Sleeping"
+1070,Champions
+1071,"New or Occasional"
+1072,"At Risk"
+1073,"At Risk"
+1074,"Lost or Sleeping"
+1075,"Lost or Sleeping"
+1076,"Lost or Sleeping"
+1077,"Lost or Sleeping"
+1078,"Lost or Sleeping"
+1079,Champions
+1080,"At Risk"
+1081,"New or Occasional"
+1082,"At Risk"
+1083,"Lost or Sleeping"
+1084,"At Risk"
+1085,"At Risk"
+1086,"At Risk"
+1087,Champions
+1088,Champions
+1089,Champions
+1090,"Lost or Sleeping"
+1091,"At Risk"
+1092,"At Risk"
+1093,"Lost or Sleeping"
+1094,"New or Occasional"
+1095,"At Risk"
+1096,"At Risk"
+1098,"New or Occasional"
+1101,"Lost or Sleeping"
+1102,"At Risk"
+1103,"Lost or Sleeping"
+1104,Champions
+1105,"New or Occasional"
+1107,Champions
+1108,"New or Occasional"
+1109,"Lost or Sleeping"
+1110,"Lost or Sleeping"
+1111,"At Risk"
+1112,Champions
+1113,Champions
+1114,Champions
+1115,"Lost or Sleeping"
+1116,Champions
+1117,"Lost or Sleeping"
+1119,Champions
+1120,"New or Occasional"
+1121,"Lost or Sleeping"
+1122,"Lost or Sleeping"
+1123,"At Risk"
+1124,"New or Occasional"
+1125,Champions
+1126,"Lost or Sleeping"
+1127,"Lost or Sleeping"
+1128,"New or Occasional"
+1129,"Lost or Sleeping"
+1131,"At Risk"
+1133,"Lost or Sleeping"
+1134,"Lost or Sleeping"
+1136,"Lost or Sleeping"
+1137,"Lost or Sleeping"
+1138,Champions
+1139,"At Risk"
+1140,Champions
+1141,"New or Occasional"
+1142,"At Risk"
+1143,"Lost or Sleeping"
+1144,"Lost or Sleeping"
+1145,Champions
+1146,"Lost or Sleeping"
+1148,"Lost or Sleeping"
+1149,"New or Occasional"
+1150,Champions
+1152,"At Risk"
+1153,"New or Occasional"
+1154,Champions
+1155,Champions
+1157,"At Risk"
+1158,Champions
+1159,"Lost or Sleeping"
+1160,Champions
+1161,Champions
+1162,Champions
+1164,"New or Occasional"
+1165,"At Risk"
+1166,"At Risk"
+1167,Champions
+1168,Champions
+1169,"At Risk"
+1170,"New or Occasional"
+1171,"At Risk"
+1172,"Lost or Sleeping"
+1173,Champions
+1174,"New or Occasional"
+1175,Champions
+1177,"At Risk"
+1179,"Lost or Sleeping"
+1180,"Lost or Sleeping"
+1181,"New or Occasional"
+1182,"Lost or Sleeping"
+1183,"Lost or Sleeping"
+1185,Champions
+1187,"New or Occasional"
+1189,"Lost or Sleeping"
+1191,"Lost or Sleeping"
+1192,"Lost or Sleeping"
+1193,"At Risk"
+1194,"Lost or Sleeping"
+1195,Champions
+1196,"At Risk"
+1197,Champions
+1198,Champions
+1199,Champions
+1200,Champions
+1201,"Lost or Sleeping"
+1202,Champions
+1203,"New or Occasional"
+1204,"Lost or Sleeping"
+1205,Champions
+1206,"Lost or Sleeping"
+1207,"New or Occasional"
+1208,"New or Occasional"
+1209,"Lost or Sleeping"
+1210,"Lost or Sleeping"
+1211,"Lost or Sleeping"
+1213,Champions
+1214,"Lost or Sleeping"
+1220,"At Risk"
+1221,"At Risk"
+1224,"Lost or Sleeping"
+1225,"Lost or Sleeping"
+1226,Champions
+1227,"New or Occasional"
+1229,"New or Occasional"
+1232,"At Risk"
+1233,"Lost or Sleeping"
+1234,Champions
+1236,"Lost or Sleeping"
+1237,"New or Occasional"
+1238,Champions
+1240,"At Risk"
+1241,Champions
+1242,"Lost or Sleeping"
+1245,"Lost or Sleeping"
+1246,"New or Occasional"
+1247,Champions
+1248,"Lost or Sleeping"
+1250,"Lost or Sleeping"
+1251,"Lost or Sleeping"
+1252,"New or Occasional"
+1253,"Lost or Sleeping"
+1255,Champions
+1257,"Lost or Sleeping"
+1258,"New or Occasional"
+1260,Champions
+1261,Champions
+1262,"At Risk"
+1263,"Lost or Sleeping"
+1264,Champions
+1265,Champions
+1266,"Lost or Sleeping"
+1267,"New or Occasional"
+1270,Champions
+1271,Champions
+1272,Champions
+1273,Champions
+1274,"At Risk"
+1275,"At Risk"
+1276,"Lost or Sleeping"
+1278,"Lost or Sleeping"
+1279,Champions
+1280,Champions
+1281,"Lost or Sleeping"
+1282,"New or Occasional"
+1283,Champions
+1284,"Lost or Sleeping"
+1285,Champions
+1286,"Lost or Sleeping"
+1287,"New or Occasional"
+1288,"New or Occasional"
+1289,Champions
+1290,"At Risk"
+1291,"Lost or Sleeping"
+1292,"New or Occasional"
+1293,"New or Occasional"
+1294,"Lost or Sleeping"
+1295,Champions
+1296,Champions
+1297,Champions
+1298,Champions
+1299,"Lost or Sleeping"
+1300,"At Risk"
+1301,"At Risk"
+1302,"New or Occasional"
+1303,"Lost or Sleeping"
+1304,Champions
+1305,"At Risk"
+1308,"Lost or Sleeping"
+1309,Champions
+1310,Champions
+1312,"At Risk"
+1315,"Lost or Sleeping"
+1316,Champions
+1317,"At Risk"
+1318,"New or Occasional"
+1319,"New or Occasional"
+1320,"Lost or Sleeping"
+1321,Champions
+1322,"At Risk"
+1323,"New or Occasional"
+1324,"New or Occasional"
+1326,"Lost or Sleeping"
+1327,"Lost or Sleeping"
+1328,"New or Occasional"
+1329,"Lost or Sleeping"
+1330,"At Risk"
+1331,"Lost or Sleeping"
+1332,"New or Occasional"
+1333,Champions
+1335,"New or Occasional"
+1336,Champions
+1340,"At Risk"
+1341,"Lost or Sleeping"
+1342,Champions
+1343,Champions
+1346,Champions
+1347,"At Risk"
+1348,Champions
+1349,"At Risk"
+1350,"Lost or Sleeping"
+1351,"At Risk"
+1353,Champions
+1355,"New or Occasional"
+1356,"Lost or Sleeping"
+1357,"Lost or Sleeping"
+1359,"New or Occasional"
+1360,"Lost or Sleeping"
+1361,Champions
+1362,"Lost or Sleeping"
+1363,"Lost or Sleeping"
+1364,"New or Occasional"
+1365,"Lost or Sleeping"
+1366,"Lost or Sleeping"
+1368,"Lost or Sleeping"
+1369,"New or Occasional"
+1370,"New or Occasional"
+1371,Champions
+1372,"At Risk"
+1374,Champions
+1375,Champions
+1379,Champions
+1380,"Lost or Sleeping"
+1382,"Lost or Sleeping"
+1383,"Lost or Sleeping"
+1385,"Lost or Sleeping"
+1388,"Lost or Sleeping"
+1389,Champions
+1390,Champions
+1391,Champions
+1392,Champions
+1393,"At Risk"
+1394,Champions
+1396,"Lost or Sleeping"
+1397,"New or Occasional"
+1398,Champions
+1400,Champions
+1401,Champions
+1402,"Lost or Sleeping"
+1403,"New or Occasional"
+1404,"At Risk"
+1405,Champions
+1406,"Lost or Sleeping"
+1407,"Lost or Sleeping"
+1408,"New or Occasional"
+1410,Champions
+1411,Champions
+1412,"Lost or Sleeping"
+1413,"Lost or Sleeping"
+1414,Champions
+1415,Champions
+1416,"Lost or Sleeping"
+1417,"Lost or Sleeping"
+1418,"Lost or Sleeping"
+1419,"Lost or Sleeping"
+1420,"Lost or Sleeping"
+1421,"Lost or Sleeping"
+1422,"At Risk"
+1424,"New or Occasional"
+1425,"At Risk"
+1426,"New or Occasional"
+1429,Champions
+1430,"At Risk"
+1431,Champions
+1432,"New or Occasional"
+1433,Champions
+1434,Champions
+1435,"At Risk"
+1436,Champions
+1437,"Lost or Sleeping"
+1438,"At Risk"
+1439,Champions
+1440,"Lost or Sleeping"
+1441,"At Risk"
+1442,"At Risk"
+1443,Champions
+1444,Champions
+1447,Champions
+1448,Champions
+1449,"At Risk"
+1450,Champions
+1451,"At Risk"
+1452,"Lost or Sleeping"
+1453,"Lost or Sleeping"
+1456,"New or Occasional"
+1457,"Lost or Sleeping"
+1458,"New or Occasional"
+1459,Champions
+1460,"Lost or Sleeping"
+1461,"Lost or Sleeping"
+1462,Champions
+1463,"Lost or Sleeping"
+1465,"New or Occasional"
+1466,Champions
+1467,"Lost or Sleeping"
+1468,"Lost or Sleeping"
+1469,Champions
+1470,Champions
+1471,Champions
+1472,"New or Occasional"
+1473,Champions
+1474,"At Risk"
+1476,Champions
+1477,Champions
+1479,Champions
+1480,"New or Occasional"
+1481,"Lost or Sleeping"
+1482,"New or Occasional"
+1483,"New or Occasional"
+1485,"At Risk"
+1486,Champions
+1487,Champions
+1488,Champions
+1489,"At Risk"
+1490,Champions
+1491,"Lost or Sleeping"
+1492,"At Risk"
+1493,"Lost or Sleeping"
+1494,Champions
+1495,"Lost or Sleeping"
+1496,"Lost or Sleeping"
+1497,"New or Occasional"
+1498,Champions
+1499,"New or Occasional"
+1500,"At Risk"
+1501,"New or Occasional"
+1502,Champions
+1503,Champions
+1504,"New or Occasional"
+1505,Champions
+1507,Champions
+1508,"New or Occasional"
+1510,Champions
+1511,"At Risk"
+1512,"Lost or Sleeping"
+1513,Champions
+1514,Champions
+1515,"Lost or Sleeping"
+1516,"Lost or Sleeping"
+1517,"New or Occasional"
+1518,Champions
+1519,Champions
+1520,"Lost or Sleeping"
+1521,"Lost or Sleeping"
+1522,"New or Occasional"
+1523,Champions
+1524,"New or Occasional"
+1525,"New or Occasional"
+1526,Champions
+1527,"At Risk"
+1528,Champions
+1529,Champions
+1530,"Lost or Sleeping"
+1531,"Lost or Sleeping"
+1533,Champions
+1534,"Lost or Sleeping"
+1535,Champions
+1536,Champions
+1537,"New or Occasional"
+1538,"Lost or Sleeping"
+1539,"Lost or Sleeping"
+1540,"New or Occasional"
+1541,Champions
+1542,"Lost or Sleeping"
+1543,Champions
+1544,"Lost or Sleeping"
+1545,"New or Occasional"
+1546,"Lost or Sleeping"
+1547,"Lost or Sleeping"
+1550,"At Risk"
+1551,"Lost or Sleeping"
+1552,Champions
+1554,"Lost or Sleeping"
+1556,"Lost or Sleeping"
+1557,"New or Occasional"
+1558,Champions
+1559,"At Risk"
+1560,"At Risk"
+1563,"At Risk"
+1564,"New or Occasional"
+1565,"Lost or Sleeping"
+1566,"Lost or Sleeping"
+1567,Champions
+1568,Champions
+1570,Champions
+1571,"New or Occasional"
+1572,"Lost or Sleeping"
+1573,Champions
+1578,"At Risk"
+1579,Champions
+1580,"New or Occasional"
+1581,"New or Occasional"
+1582,Champions
+1583,"Lost or Sleeping"
+1585,"New or Occasional"
+1586,"Lost or Sleeping"
+1587,Champions
+1588,"New or Occasional"
+1589,"Lost or Sleeping"
+1590,Champions
+1591,Champions
+1592,"Lost or Sleeping"
+1593,"Lost or Sleeping"
+1594,"At Risk"
+1595,"Lost or Sleeping"
+1596,"Lost or Sleeping"
+1597,"New or Occasional"
+1598,Champions
+1599,"At Risk"
+1600,Champions
+1601,Champions
+1602,"New or Occasional"
+1603,Champions
+1604,"At Risk"
+1605,"Lost or Sleeping"
+1606,Champions
+1607,"At Risk"
+1610,Champions
+1611,"At Risk"
+1612,Champions
+1614,Champions
+1615,"Lost or Sleeping"
+1616,Champions
+1617,"Lost or Sleeping"
+1618,Champions
+1619,Champions
+1620,Champions
+1621,"Lost or Sleeping"
+1622,"New or Occasional"
+1623,Champions
+1624,Champions
+1625,"At Risk"
+1626,"Lost or Sleeping"
+1627,Champions
+1628,"At Risk"
+1629,"New or Occasional"
+1630,"New or Occasional"
+1631,"At Risk"
+1632,"New or Occasional"
+1635,"Lost or Sleeping"
+1636,Champions
+1637,"Lost or Sleeping"
+1638,"Lost or Sleeping"
+1639,"At Risk"
+1640,"Lost or Sleeping"
+1641,Champions
+1642,Champions
+1643,"At Risk"
+1644,"At Risk"
+1645,"Lost or Sleeping"
+1647,"Lost or Sleeping"
+1649,"At Risk"
+1650,"Lost or Sleeping"
+1651,"At Risk"
+1652,"At Risk"
+1653,"Lost or Sleeping"
+1654,Champions
+1655,Champions
+1656,"At Risk"
+1658,Champions
+1659,"Lost or Sleeping"
+1661,"At Risk"
+1662,"At Risk"
+1664,"Lost or Sleeping"
+1665,Champions
+1667,Champions
+1668,"At Risk"
+1669,"Lost or Sleeping"
+1670,Champions
+1671,"Lost or Sleeping"
+1672,"At Risk"
+1673,"Lost or Sleeping"
+1674,"Lost or Sleeping"
+1675,"Lost or Sleeping"
+1676,Champions
+1677,Champions
+1678,"At Risk"
+1679,Champions
+1681,"Lost or Sleeping"
+1682,"New or Occasional"
+1683,Champions
+1685,Champions
+1687,Champions
+1688,"Lost or Sleeping"
+1690,"New or Occasional"
+1691,Champions
+1693,"Lost or Sleeping"
+1694,"Lost or Sleeping"
+1695,Champions
+1697,"At Risk"
+1698,"Lost or Sleeping"
+1699,Champions
+1700,"New or Occasional"
+1701,Champions
+1702,Champions
+1704,Champions
+1706,Champions
+1707,Champions
+1709,"Lost or Sleeping"
+1710,"Lost or Sleeping"
+1712,"New or Occasional"
+1713,Champions
+1714,Champions
+1715,"Lost or Sleeping"
+1716,Champions
+1717,"New or Occasional"
+1718,"New or Occasional"
+1719,"At Risk"
+1720,"At Risk"
+1722,"New or Occasional"
+1723,"At Risk"
+1724,"Lost or Sleeping"
+1726,"Lost or Sleeping"
+1727,"Lost or Sleeping"
+1728,Champions
+1730,"Lost or Sleeping"
+1731,"New or Occasional"
+1732,"Lost or Sleeping"
+1733,Champions
+1734,Champions
+1736,Champions
+1737,"New or Occasional"
+1738,"Lost or Sleeping"
+1740,"Lost or Sleeping"
+1741,"Lost or Sleeping"
+1742,Champions
+1744,"At Risk"
+1745,Champions
+1746,"Lost or Sleeping"
+1747,"Lost or Sleeping"
+1748,"New or Occasional"
+1749,"Lost or Sleeping"
+1750,Champions
+1751,"Lost or Sleeping"
+1753,"New or Occasional"
+1755,Champions
+1756,Champions
+1757,"At Risk"
+1758,Champions
+1759,"At Risk"
+1760,Champions
+1761,"Lost or Sleeping"
+1763,Champions
+1764,Champions
+1766,Champions
+1767,Champions
+1769,"Lost or Sleeping"
+1770,Champions
+1772,"At Risk"
+1773,"New or Occasional"
+1774,"Lost or Sleeping"
+1777,"Lost or Sleeping"
+1779,Champions
+1780,"Lost or Sleeping"
+1781,"At Risk"
+1783,Champions
+1785,Champions
+1786,"At Risk"
+1787,Champions
+1788,Champions
+1789,"New or Occasional"
+1790,Champions
+1792,Champions
+1793,Champions
+1794,Champions
+1796,"Lost or Sleeping"
+1797,Champions
+1798,Champions
+1799,"Lost or Sleeping"
+1800,"Lost or Sleeping"
+1801,Champions
+1802,"At Risk"
+1803,Champions
+1804,"At Risk"
+1806,Champions
+1808,Champions
+1810,"Lost or Sleeping"
+1811,"Lost or Sleeping"
+1813,"New or Occasional"
+1815,Champions
+1816,"New or Occasional"
+1818,"At Risk"
+1819,Champions
+1820,"New or Occasional"
+1821,"Lost or Sleeping"
+1822,"Lost or Sleeping"
+1824,"Lost or Sleeping"
+1825,"Lost or Sleeping"
+1826,"At Risk"
+1827,Champions
+1828,Champions
+1829,Champions
+1830,"Lost or Sleeping"
+1832,"At Risk"
+1833,Champions
+1834,"Lost or Sleeping"
+1835,"New or Occasional"
+1836,"Lost or Sleeping"
+1837,"At Risk"
+1839,"At Risk"
+1840,Champions
+1841,"At Risk"
+1842,"Lost or Sleeping"
+1843,Champions
+1844,Champions
+1845,Champions
+1846,"Lost or Sleeping"
+1847,"New or Occasional"
+1848,"Lost or Sleeping"
+1849,Champions
+1850,Champions
+1851,"Lost or Sleeping"
+1852,"Lost or Sleeping"
+1853,"New or Occasional"
+1854,Champions
+1855,"Lost or Sleeping"
+1856,"Lost or Sleeping"
+1857,"New or Occasional"
+1858,"Lost or Sleeping"
+1859,Champions
+1860,Champions
+1862,"At Risk"
+1863,"Lost or Sleeping"
+1864,"New or Occasional"
+1865,"Lost or Sleeping"
+1868,"New or Occasional"
+1869,"Lost or Sleeping"
+1870,"New or Occasional"
+1871,"Lost or Sleeping"
+1873,"New or Occasional"
+1874,"Lost or Sleeping"
+1875,"Lost or Sleeping"
+1876,Champions
+1877,"Lost or Sleeping"
+1878,"At Risk"
+1879,"New or Occasional"
+1880,Champions
+1882,Champions
+1883,Champions
+1885,Champions
+1886,Champions
+1887,"At Risk"
+1888,"Lost or Sleeping"
+1889,"New or Occasional"
+1890,Champions
+1891,"Lost or Sleeping"
+1892,"Lost or Sleeping"
+1893,"New or Occasional"
+1894,"At Risk"
+1896,Champions
+1897,"Lost or Sleeping"
+1898,"New or Occasional"
+1899,"Lost or Sleeping"
+1900,"Lost or Sleeping"
+1901,Champions
+1902,Champions
+1904,"New or Occasional"
+1905,Champions
+1906,"Lost or Sleeping"
+1907,"New or Occasional"
+1908,Champions
+1909,"At Risk"
+1910,"Lost or Sleeping"
+1911,Champions
+1912,"Lost or Sleeping"
+1913,Champions
+1914,"New or Occasional"
+1915,Champions
+1916,"Lost or Sleeping"
+1917,"Lost or Sleeping"
+1918,"At Risk"
+1919,"Lost or Sleeping"
+1920,"At Risk"
+1921,"Lost or Sleeping"
+1922,Champions
+1924,"At Risk"
+1925,"New or Occasional"
+1926,"Lost or Sleeping"
+1927,Champions
+1928,"New or Occasional"
+1932,"Lost or Sleeping"
+1933,"At Risk"
+1934,"Lost or Sleeping"
+1935,Champions
+1936,"Lost or Sleeping"
+1937,"Lost or Sleeping"
+1938,"At Risk"
+1939,"At Risk"
+1941,"Lost or Sleeping"
+1942,Champions
+1943,"New or Occasional"
+1945,"At Risk"
+1946,"At Risk"
+1947,"Lost or Sleeping"
+1948,Champions
+1949,Champions
+1950,"Lost or Sleeping"
+1951,"At Risk"
+1952,Champions
+1953,Champions
+1954,"New or Occasional"
+1955,"Lost or Sleeping"
+1956,Champions
+1957,Champions
+1958,"New or Occasional"
+1959,Champions
+1960,"New or Occasional"
+1961,Champions
+1962,Champions
+1963,"Lost or Sleeping"
+1964,"At Risk"
+1966,"New or Occasional"
+1967,"Lost or Sleeping"
+1969,"At Risk"
+1970,Champions
+1971,"New or Occasional"
+1972,Champions
+1973,"At Risk"
+1975,"Lost or Sleeping"
+1976,"At Risk"
+1977,Champions
+1978,Champions
+1980,Champions
+1981,"Lost or Sleeping"
+1982,Champions
+1983,"Lost or Sleeping"
+1984,"Lost or Sleeping"
+1986,Champions
+1987,"Lost or Sleeping"
+1988,"At Risk"
+1989,Champions
+1990,"Lost or Sleeping"
+1991,"Lost or Sleeping"
+1992,"Lost or Sleeping"
+1993,"New or Occasional"
+1994,Champions
+1995,"New or Occasional"
+1996,Champions
+1998,"Lost or Sleeping"
+2000,"New or Occasional"
+2002,"Lost or Sleeping"
+2003,"Lost or Sleeping"
+2004,"New or Occasional"
+2005,"Lost or Sleeping"
+2006,"At Risk"
+2007,"At Risk"
+2009,Champions
+2010,"Lost or Sleeping"
+2012,"Lost or Sleeping"
+2014,Champions
+2015,"Lost or Sleeping"
+2016,"Lost or Sleeping"
+2017,Champions
+2019,Champions
+2020,Champions
+2021,"New or Occasional"
+2022,"Lost or Sleeping"
+2023,"At Risk"
+2025,Champions
+2026,"At Risk"
+2027,"At Risk"
+2029,"New or Occasional"
+2030,Champions
+2032,"At Risk"
+2033,"Lost or Sleeping"
+2034,"Lost or Sleeping"
+2036,"At Risk"
+2037,"At Risk"
+2038,"New or Occasional"
+2040,Champions
+2041,Champions
+2042,"Lost or Sleeping"
+2043,Champions
+2044,"Lost or Sleeping"
+2045,"Lost or Sleeping"
+2046,Champions
+2047,Champions
+2048,"At Risk"
+2049,"Lost or Sleeping"
+2050,Champions
+2051,Champions
+2052,Champions
+2053,"Lost or Sleeping"
+2054,Champions
+2055,"New or Occasional"
+2056,"New or Occasional"
+2059,Champions
+2060,Champions
+2062,"New or Occasional"
+2063,"Lost or Sleeping"
+2064,Champions
+2065,"Lost or Sleeping"
+2066,Champions
+2067,"At Risk"
+2068,"Lost or Sleeping"
+2069,"Lost or Sleeping"
+2071,"Lost or Sleeping"
+2072,"At Risk"
+2073,Champions
+2075,"Lost or Sleeping"
+2079,Champions
+2080,Champions
+2081,"New or Occasional"
+2083,Champions
+2084,"New or Occasional"
+2086,"Lost or Sleeping"
+2087,"Lost or Sleeping"
+2088,Champions
+2089,Champions
+2090,Champions
+2091,"At Risk"
+2092,"New or Occasional"
+2094,Champions
+2095,Champions
+2098,"New or Occasional"
+2100,"Lost or Sleeping"
+2102,Champions
+2104,"Lost or Sleeping"
+2105,"Lost or Sleeping"
+2106,"Lost or Sleeping"
+2107,"At Risk"
+2108,Champions
+2110,Champions
+2111,"At Risk"
+2112,"Lost or Sleeping"
+2113,"New or Occasional"
+2114,Champions
+2115,"Lost or Sleeping"
+2116,Champions
+2117,Champions
+2119,"Lost or Sleeping"
+2120,"At Risk"
+2121,"At Risk"
+2122,"At Risk"
+2123,"Lost or Sleeping"
+2124,"At Risk"
+2125,Champions
+2126,"At Risk"
+2127,"Lost or Sleeping"
+2128,"New or Occasional"
+2130,"Lost or Sleeping"
+2131,"At Risk"
+2132,"Lost or Sleeping"
+2134,"New or Occasional"
+2135,"New or Occasional"
+2136,Champions
+2138,"At Risk"
+2140,Champions
+2142,"Lost or Sleeping"
+2143,"At Risk"
+2144,Champions
+2145,"New or Occasional"
+2146,Champions
+2147,"At Risk"
+2148,Champions
+2149,Champions
+2150,"At Risk"
+2151,"Lost or Sleeping"
+2152,"Lost or Sleeping"
+2153,"New or Occasional"
+2155,"At Risk"
+2156,"New or Occasional"
+2157,"At Risk"
+2159,"At Risk"
+2160,Champions
+2161,Champions
+2162,"Lost or Sleeping"
+2163,"New or Occasional"
+2164,Champions
+2165,"Lost or Sleeping"
+2167,"Lost or Sleeping"
+2168,Champions
+2169,Champions
+2170,"Lost or Sleeping"
+2171,"At Risk"
+2172,Champions
+2173,"Lost or Sleeping"
+2174,Champions
+2175,"Lost or Sleeping"
+2176,"New or Occasional"
+2177,"Lost or Sleeping"
+2178,"New or Occasional"
+2180,"Lost or Sleeping"
+2181,"New or Occasional"
+2182,Champions
+2184,"New or Occasional"
+2185,"At Risk"
+2186,Champions
+2187,"Lost or Sleeping"
+2188,Champions
+2190,"New or Occasional"
+2191,"New or Occasional"
+2193,"At Risk"
+2194,"Lost or Sleeping"
+2195,"New or Occasional"
+2196,Champions
+2197,Champions
+2199,Champions
+2200,"At Risk"
+2201,"New or Occasional"
+2203,"Lost or Sleeping"
+2204,Champions
+2205,"Lost or Sleeping"
+2206,"New or Occasional"
+2207,"Lost or Sleeping"
+2208,"Lost or Sleeping"
+2210,Champions
+2211,"Lost or Sleeping"
+2212,"New or Occasional"
+2213,"Lost or Sleeping"
+2214,Champions
+2215,"New or Occasional"
+2216,Champions
+2217,"Lost or Sleeping"
+2219,Champions
+2220,"New or Occasional"
+2221,"Lost or Sleeping"
+2222,"New or Occasional"
+2224,"Lost or Sleeping"
+2225,Champions
+2226,Champions
+2227,Champions
+2228,Champions
+2230,"Lost or Sleeping"
+2231,"Lost or Sleeping"
+2232,"At Risk"
+2233,"At Risk"
+2234,Champions
+2235,"Lost or Sleeping"
+2237,"Lost or Sleeping"
+2238,"Lost or Sleeping"
+2239,Champions
+2241,Champions
+2243,"At Risk"
+2244,Champions
+2245,"Lost or Sleeping"
+2246,"Lost or Sleeping"
+2247,"At Risk"
+2248,"Lost or Sleeping"
+2249,"Lost or Sleeping"
+2250,"New or Occasional"
+2251,"At Risk"
+2252,"New or Occasional"
+2253,"Lost or Sleeping"
+2254,"At Risk"
+2255,Champions
+2256,"Lost or Sleeping"
+2257,"Lost or Sleeping"
+2258,"New or Occasional"
+2260,"Lost or Sleeping"
+2261,"At Risk"
+2263,"Lost or Sleeping"
+2264,Champions
+2265,Champions
+2266,"Lost or Sleeping"
+2268,"Lost or Sleeping"
+2269,"Lost or Sleeping"
+2270,Champions
+2271,"New or Occasional"
+2272,"Lost or Sleeping"
+2273,"New or Occasional"
+2274,"At Risk"
+2275,"New or Occasional"
+2276,Champions
+2277,"Lost or Sleeping"
+2279,Champions
+2280,"Lost or Sleeping"
+2281,"New or Occasional"
+2282,"Lost or Sleeping"
+2283,"New or Occasional"
+2284,"New or Occasional"
+2285,"New or Occasional"
+2286,"Lost or Sleeping"
+2287,"Lost or Sleeping"
+2288,"Lost or Sleeping"
+2289,"Lost or Sleeping"
+2290,"Lost or Sleeping"
+2292,Champions
+2294,"New or Occasional"
+2295,"At Risk"
+2296,"Lost or Sleeping"
+2297,Champions
+2298,Champions
+2299,"New or Occasional"
+2300,"Lost or Sleeping"
+2301,Champions
+2302,"At Risk"
+2303,"Lost or Sleeping"
+2304,Champions
+2305,"New or Occasional"
+2307,Champions
+2308,Champions
+2309,"At Risk"
+2310,"Lost or Sleeping"
+2313,"Lost or Sleeping"
+2314,"At Risk"
+2315,Champions
+2318,"Lost or Sleeping"
+2319,Champions
+2320,"Lost or Sleeping"
+2321,Champions
+2322,"New or Occasional"
+2323,Champions
+2324,"Lost or Sleeping"
+2325,"At Risk"
+2326,"New or Occasional"
+2327,"Lost or Sleeping"
+2328,"New or Occasional"
+2329,Champions
+2330,Champions
+2332,"At Risk"
+2333,"New or Occasional"
+2335,"New or Occasional"
+2336,Champions
+2337,"Lost or Sleeping"
+2338,Champions
+2339,"At Risk"
+2340,Champions
+2341,"Lost or Sleeping"
+2342,Champions
+2344,Champions
+2345,"At Risk"
+2346,"Lost or Sleeping"
+2347,"Lost or Sleeping"
+2348,"New or Occasional"
+2349,"Lost or Sleeping"
+2350,"Lost or Sleeping"
+2351,"Lost or Sleeping"
+2352,Champions
+2353,Champions
+2354,Champions
+2355,"New or Occasional"
+2357,"Lost or Sleeping"
+2358,Champions
+2359,"Lost or Sleeping"
+2361,Champions
+2362,"Lost or Sleeping"
+2363,"At Risk"
+2364,"Lost or Sleeping"
+2365,Champions
+2366,Champions
+2367,"At Risk"
+2369,"New or Occasional"
+2370,Champions
+2371,Champions
+2372,Champions
+2373,"Lost or Sleeping"
+2374,Champions
+2375,"New or Occasional"
+2376,"Lost or Sleeping"
+2377,Champions
+2378,"At Risk"
+2379,"New or Occasional"
+2380,"Lost or Sleeping"
+2381,"New or Occasional"
+2382,"New or Occasional"
+2383,"At Risk"
+2384,"Lost or Sleeping"
+2385,Champions
+2387,"New or Occasional"
+2388,"Lost or Sleeping"
+2389,"At Risk"
+2390,"Lost or Sleeping"
+2391,"Lost or Sleeping"
+2392,Champions
+2394,"Lost or Sleeping"
+2395,"At Risk"
+2396,Champions
+2397,"Lost or Sleeping"
+2398,"At Risk"
+2400,Champions
+2401,"At Risk"
+2402,Champions
+2403,"New or Occasional"
+2405,Champions
+2406,Champions
+2410,"Lost or Sleeping"
+2411,"At Risk"
+2412,Champions
+2413,"Lost or Sleeping"
+2414,"Lost or Sleeping"
+2415,"New or Occasional"
+2416,Champions
+2418,"Lost or Sleeping"
+2419,"Lost or Sleeping"
+2420,"At Risk"
+2421,"At Risk"
+2423,"New or Occasional"
+2424,"New or Occasional"
+2425,"Lost or Sleeping"
+2426,"Lost or Sleeping"
+2427,"New or Occasional"
+2428,Champions
+2429,Champions
+2431,"Lost or Sleeping"
+2432,"At Risk"
+2433,"Lost or Sleeping"
+2434,"New or Occasional"
+2435,"At Risk"
+2436,Champions
+2437,"Lost or Sleeping"
+2438,"Lost or Sleeping"
+2440,"New or Occasional"
+2441,Champions
+2442,"Lost or Sleeping"
+2443,"At Risk"
+2444,"Lost or Sleeping"
+2445,"New or Occasional"
+2446,"Lost or Sleeping"
+2448,"Lost or Sleeping"
+2449,Champions
+2450,"Lost or Sleeping"
+2451,Champions
+2453,Champions
+2454,Champions
+2456,"Lost or Sleeping"
+2457,"Lost or Sleeping"
+2458,"New or Occasional"
+2460,Champions
+2461,"New or Occasional"
+2462,"At Risk"
+2463,Champions
+2464,"New or Occasional"
+2465,Champions
+2466,Champions
+2467,"New or Occasional"
+2468,"At Risk"
+2469,Champions
+2471,"New or Occasional"
+2473,"New or Occasional"
+2475,Champions
+2476,"Lost or Sleeping"
+2477,"Lost or Sleeping"
+2478,"At Risk"
+2479,"Lost or Sleeping"
+2480,Champions
+2482,"New or Occasional"
+2483,"Lost or Sleeping"
+2484,"New or Occasional"
+2487,"New or Occasional"
+2488,Champions
+2490,"Lost or Sleeping"
+2491,Champions
+2492,"New or Occasional"
+2493,Champions
+2494,"At Risk"
+2495,"At Risk"
+2496,"Lost or Sleeping"
+2497,Champions
+2498,Champions
+2499,Champions
+2500,Champions
+2501,"At Risk"
+2502,"Lost or Sleeping"
+2503,"New or Occasional"
+2505,"At Risk"
+2506,Champions
+2508,Champions
+2509,"At Risk"
+2510,Champions
+2512,"New or Occasional"
+2514,"At Risk"
+2515,Champions
+2517,Champions
+2518,Champions
+2519,Champions
+2521,Champions
+2522,"Lost or Sleeping"
+2523,"At Risk"
+2524,"New or Occasional"
+2525,Champions
+2526,Champions
+2527,"Lost or Sleeping"
+2528,"At Risk"
+2529,Champions
+2530,"Lost or Sleeping"
+2531,"Lost or Sleeping"
+2532,Champions
+2533,"At Risk"
+2534,"New or Occasional"
+2535,"At Risk"
+2536,Champions
+2538,"Lost or Sleeping"
+2539,"At Risk"
+2542,"Lost or Sleeping"
+2543,"At Risk"
+2544,"New or Occasional"
+2545,Champions
+2546,Champions
+2547,"Lost or Sleeping"
+2548,"At Risk"
+2549,"New or Occasional"
+2550,Champions
+2551,"Lost or Sleeping"
+2552,Champions
+2553,"Lost or Sleeping"
+2554,Champions
+2555,"Lost or Sleeping"
+2558,"New or Occasional"
+2559,Champions
+2560,Champions
+2561,"At Risk"
+2564,"New or Occasional"
+2565,"Lost or Sleeping"
+2567,"Lost or Sleeping"
+2568,Champions
+2570,"Lost or Sleeping"
+2571,Champions
+2572,"Lost or Sleeping"
+2573,"Lost or Sleeping"
+2574,Champions
+2575,Champions
+2576,"Lost or Sleeping"
+2578,"At Risk"
+2579,Champions
+2580,"Lost or Sleeping"
+2581,"At Risk"
+2582,"Lost or Sleeping"
+2583,"Lost or Sleeping"
+2584,"New or Occasional"
+2585,"Lost or Sleeping"
+2586,"Lost or Sleeping"
+2587,Champions
+2588,"At Risk"
+2589,"New or Occasional"
+2590,Champions
+2591,"At Risk"
+2592,Champions
+2593,"Lost or Sleeping"
+2594,Champions
+2595,"Lost or Sleeping"
+2596,"At Risk"
+2597,"At Risk"
+2598,"Lost or Sleeping"
+2599,Champions
+2600,"At Risk"
+2602,"Lost or Sleeping"
+2604,"At Risk"
+2605,"Lost or Sleeping"
+2607,Champions
+2609,"Lost or Sleeping"
+2610,"At Risk"
+2611,Champions
+2612,"At Risk"
+2613,Champions
+2614,"Lost or Sleeping"
+2617,"At Risk"
+2618,"New or Occasional"
+2619,Champions
+2622,"At Risk"
+2623,"New or Occasional"
+2624,"Lost or Sleeping"
+2625,"Lost or Sleeping"
+2626,Champions
+2627,"At Risk"
+2628,"New or Occasional"
+2629,"Lost or Sleeping"
+2630,"Lost or Sleeping"
+2631,"At Risk"
+2632,"New or Occasional"
+2633,"Lost or Sleeping"
+2634,"New or Occasional"
+2635,Champions
+2636,Champions
+2637,Champions
+2638,"New or Occasional"
+2639,"New or Occasional"
+2640,Champions
+2641,"At Risk"
+2642,"New or Occasional"
+2643,"Lost or Sleeping"
+2644,Champions
+2646,Champions
+2647,Champions
+2648,"New or Occasional"
+2649,Champions
+2651,"Lost or Sleeping"
+2653,"Lost or Sleeping"
+2655,"Lost or Sleeping"
+2656,"New or Occasional"
+2657,Champions
+2659,Champions
+2660,"New or Occasional"
+2661,Champions
+2662,"Lost or Sleeping"
+2663,"New or Occasional"
+2664,"Lost or Sleeping"
+2665,"New or Occasional"
+2666,"Lost or Sleeping"
+2667,"New or Occasional"
+2670,"Lost or Sleeping"
+2671,"Lost or Sleeping"
+2672,"Lost or Sleeping"
+2673,"Lost or Sleeping"
+2674,Champions
+2675,"New or Occasional"
+2676,Champions
+2677,"Lost or Sleeping"
+2679,"At Risk"
+2680,"New or Occasional"
+2681,"At Risk"
+2682,"Lost or Sleeping"
+2685,"New or Occasional"
+2686,Champions
+2687,"Lost or Sleeping"
+2688,"Lost or Sleeping"
+2689,"Lost or Sleeping"
+2690,"Lost or Sleeping"
+2691,Champions
+2692,"Lost or Sleeping"
+2693,"Lost or Sleeping"
+2694,"Lost or Sleeping"
+2696,"Lost or Sleeping"
+2697,"At Risk"
+2698,"At Risk"
+2700,"Lost or Sleeping"
+2701,"New or Occasional"
+2702,Champions
+2703,"Lost or Sleeping"
+2704,"Lost or Sleeping"
+2705,"At Risk"
+2706,"Lost or Sleeping"
+2708,Champions
+2709,Champions
+2710,Champions
+2712,"Lost or Sleeping"
+2713,Champions
+2714,"New or Occasional"
+2715,Champions
+2716,"New or Occasional"
+2717,"Lost or Sleeping"
+2718,"Lost or Sleeping"
+2720,"Lost or Sleeping"
+2721,"Lost or Sleeping"
+2723,Champions
+2724,"New or Occasional"
+2726,Champions
+2727,"Lost or Sleeping"
+2728,"At Risk"
+2729,"At Risk"
+2730,"New or Occasional"
+2731,"New or Occasional"
+2732,Champions
+2733,"At Risk"
+2734,"New or Occasional"
+2735,"At Risk"
+2737,Champions
+2738,"Lost or Sleeping"
+2739,"At Risk"
+2740,"Lost or Sleeping"
+2741,"At Risk"
+2742,"New or Occasional"
+2743,Champions
+2744,"At Risk"
+2745,Champions
+2746,"New or Occasional"
+2747,Champions
+2748,Champions
+2749,Champions
+2750,"Lost or Sleeping"
+2751,Champions
+2752,"Lost or Sleeping"
+2754,"New or Occasional"
+2755,Champions
+2757,"Lost or Sleeping"
+2758,Champions
+2759,"Lost or Sleeping"
+2760,Champions
+2761,"Lost or Sleeping"
+2763,Champions
+2765,Champions
+2766,"Lost or Sleeping"
+2767,"Lost or Sleeping"
+2768,Champions
+2769,"Lost or Sleeping"
+2770,"At Risk"
+2771,Champions
+2774,"Lost or Sleeping"
+2775,Champions
+2777,"Lost or Sleeping"
+2778,"At Risk"
+2779,"Lost or Sleeping"
+2781,"Lost or Sleeping"
+2782,Champions
+2783,"At Risk"
+2784,"At Risk"
+2785,"Lost or Sleeping"
+2786,"New or Occasional"
+2787,"At Risk"
+2788,"New or Occasional"
+2789,"Lost or Sleeping"
+2790,Champions
+2791,"Lost or Sleeping"
+2792,Champions
+2794,"Lost or Sleeping"
+2795,"New or Occasional"
+2796,Champions
+2797,"At Risk"
+2798,"Lost or Sleeping"
+2799,Champions
+2801,Champions
+2802,"Lost or Sleeping"
+2803,Champions
+2804,"Lost or Sleeping"
+2805,"At Risk"
+2806,"At Risk"
+2807,"At Risk"
+2808,Champions
+2809,"At Risk"
+2810,"Lost or Sleeping"
+2812,"Lost or Sleeping"
+2813,Champions
+2814,"New or Occasional"
+2815,Champions
+2817,"New or Occasional"
+2818,"New or Occasional"
+2820,Champions
+2821,"Lost or Sleeping"
+2823,"Lost or Sleeping"
+2824,Champions
+2825,Champions
+2826,"New or Occasional"
+2827,"New or Occasional"
+2828,"At Risk"
+2829,"Lost or Sleeping"
+2830,Champions
+2831,"At Risk"
+2832,"At Risk"
+2833,"Lost or Sleeping"
+2834,"At Risk"
+2835,"New or Occasional"
+2837,"Lost or Sleeping"
+2838,"Lost or Sleeping"
+2839,Champions
+2840,"Lost or Sleeping"
+2841,"Lost or Sleeping"
+2842,"Lost or Sleeping"
+2844,"Lost or Sleeping"
+2845,"At Risk"
+2846,Champions
+2847,Champions
+2848,"Lost or Sleeping"
+2849,"Lost or Sleeping"
+2851,"Lost or Sleeping"
+2852,"Lost or Sleeping"
+2854,Champions
+2855,"Lost or Sleeping"
+2856,"Lost or Sleeping"
+2857,"Lost or Sleeping"
+2858,Champions
+2859,Champions
+2861,Champions
+2862,"Lost or Sleeping"
+2863,"At Risk"
+2864,"New or Occasional"
+2865,"New or Occasional"
+2866,Champions
+2867,"At Risk"
+2868,"Lost or Sleeping"
+2869,"New or Occasional"
+2870,"Lost or Sleeping"
+2872,"Lost or Sleeping"
+2873,"Lost or Sleeping"
+2874,"New or Occasional"
+2875,"New or Occasional"
+2876,"At Risk"
+2877,"New or Occasional"
+2878,Champions
+2879,"Lost or Sleeping"
+2880,Champions
+2881,Champions
+2886,"Lost or Sleeping"
+2887,"Lost or Sleeping"
+2888,"At Risk"
+2890,"Lost or Sleeping"
+2891,Champions
+2892,"New or Occasional"
+2893,"New or Occasional"
+2894,Champions
+2896,"Lost or Sleeping"
+2897,"At Risk"
+2899,"At Risk"
+2900,"Lost or Sleeping"
+2901,"Lost or Sleeping"
+2903,"Lost or Sleeping"
+2904,"Lost or Sleeping"
+2905,Champions
+2906,"At Risk"
+2907,Champions
+2908,"Lost or Sleeping"
+2910,"Lost or Sleeping"
+2913,Champions
+2914,Champions
+2915,"Lost or Sleeping"
+2916,Champions
+2919,"At Risk"
+2920,"Lost or Sleeping"
+2921,"New or Occasional"
+2922,"Lost or Sleeping"
+2923,Champions
+2924,"New or Occasional"
+2925,"At Risk"
+2926,Champions
+2927,"At Risk"
+2928,Champions
+2929,Champions
+2930,Champions
+2931,"Lost or Sleeping"
+2932,Champions
+2933,Champions
+2934,Champions
+2935,"Lost or Sleeping"
+2936,"Lost or Sleeping"
+2937,Champions
+2938,"At Risk"
+2939,"Lost or Sleeping"
+2940,"Lost or Sleeping"
+2941,Champions
+2942,Champions
+2943,Champions
+2944,Champions
+2945,"Lost or Sleeping"
+2946,Champions
+2948,"Lost or Sleeping"
+2949,"New or Occasional"
+2950,"Lost or Sleeping"
+2951,"New or Occasional"
+2952,"New or Occasional"
+2953,Champions
+2955,"At Risk"
+2956,Champions
+2957,Champions
+2958,Champions
+2959,"Lost or Sleeping"
+2960,"Lost or Sleeping"
+2961,Champions
+2963,Champions
+2964,Champions
+2965,Champions
+2966,"Lost or Sleeping"
+2968,"New or Occasional"
+2969,"New or Occasional"
+2970,"New or Occasional"
+2971,Champions
+2972,"New or Occasional"
+2973,"Lost or Sleeping"
+2974,Champions
+2975,"Lost or Sleeping"
+2976,Champions
+2977,"At Risk"
+2978,"Lost or Sleeping"
+2980,Champions
+2981,"At Risk"
+2982,Champions
+2983,"At Risk"
+2984,Champions
+2985,"Lost or Sleeping"
+2986,"Lost or Sleeping"
+2987,Champions
+2988,"New or Occasional"
+2989,Champions
+2990,"New or Occasional"
+2991,Champions
+2993,"New or Occasional"
+2994,"Lost or Sleeping"
+2995,"At Risk"
+2996,Champions
+2997,"Lost or Sleeping"
+2998,Champions
+2999,"Lost or Sleeping"
+3000,"At Risk"
+3001,Champions
+3003,Champions
+3004,"At Risk"
+3005,"Lost or Sleeping"
+3006,"At Risk"
+3007,"At Risk"
+3008,Champions
+3009,"Lost or Sleeping"
+3010,Champions
+3011,"New or Occasional"
+3012,"Lost or Sleeping"
+3013,"At Risk"
+3014,Champions
+3015,"Lost or Sleeping"
+3016,"New or Occasional"
+3017,"Lost or Sleeping"
+3018,"Lost or Sleeping"
+3019,"New or Occasional"
+3020,Champions
+3023,"At Risk"
+3024,"New or Occasional"
+3025,Champions
+3026,"At Risk"
+3027,Champions
+3028,Champions
+3031,"At Risk"
+3032,"At Risk"
+3033,"At Risk"
+3036,"Lost or Sleeping"
+3037,"New or Occasional"
+3039,Champions
+3041,Champions
+3042,"At Risk"
+3043,"New or Occasional"
+3044,Champions
+3045,"New or Occasional"
+3046,Champions
+3047,Champions
+3048,"At Risk"
+3049,"At Risk"
+3050,"Lost or Sleeping"
+3053,"New or Occasional"
+3054,"New or Occasional"
+3055,"Lost or Sleeping"
+3057,"Lost or Sleeping"
+3058,"New or Occasional"
+3059,"Lost or Sleeping"
+3060,"Lost or Sleeping"
+3061,Champions
+3063,"Lost or Sleeping"
+3064,"At Risk"
+3065,"At Risk"
+3066,Champions
+3067,"New or Occasional"
+3068,"New or Occasional"
+3069,"At Risk"
+3070,"Lost or Sleeping"
+3071,Champions
+3073,"New or Occasional"
+3074,"New or Occasional"
+3075,Champions
+3076,Champions
+3077,"At Risk"
+3078,"Lost or Sleeping"
+3079,Champions
+3080,"Lost or Sleeping"
+3081,"New or Occasional"
+3082,"Lost or Sleeping"
+3084,Champions
+3085,"Lost or Sleeping"
+3086,"Lost or Sleeping"
+3087,"At Risk"
+3088,"At Risk"
+3089,"New or Occasional"
+3090,Champions
+3091,Champions
+3092,Champions
+3093,"Lost or Sleeping"
+3094,Champions
+3095,Champions
+3096,"Lost or Sleeping"
+3097,"At Risk"
+3098,Champions
+3099,Champions
+3100,Champions
+3101,"Lost or Sleeping"
+3103,"Lost or Sleeping"
+3104,Champions
+3105,Champions
+3107,Champions
+3108,Champions
+3109,"Lost or Sleeping"
+3110,"New or Occasional"
+3111,"New or Occasional"
+3113,"At Risk"
+3114,"Lost or Sleeping"
+3115,"At Risk"
+3116,Champions
+3117,"Lost or Sleeping"
+3118,"Lost or Sleeping"
+3119,Champions
+3120,Champions
+3121,"At Risk"
+3122,"New or Occasional"
+3123,Champions
+3125,"Lost or Sleeping"
+3126,"Lost or Sleeping"
+3127,"At Risk"
+3128,"Lost or Sleeping"
+3129,Champions
+3130,"New or Occasional"
+3131,Champions
+3132,Champions
+3133,"Lost or Sleeping"
+3134,"New or Occasional"
+3136,"At Risk"
+3137,"New or Occasional"
+3138,Champions
+3139,"Lost or Sleeping"
+3140,"New or Occasional"
+3141,"At Risk"
+3144,"New or Occasional"
+3145,Champions
+3146,Champions
+3147,Champions
+3149,Champions
+3150,"Lost or Sleeping"
+3151,"New or Occasional"
+3152,Champions
+3154,"Lost or Sleeping"
+3155,Champions
+3156,"Lost or Sleeping"
+3157,"Lost or Sleeping"
+3158,Champions
+3159,"Lost or Sleeping"
+3160,"Lost or Sleeping"
+3161,"Lost or Sleeping"
+3162,Champions
+3165,"Lost or Sleeping"
+3166,"Lost or Sleeping"
+3168,Champions
+3169,"Lost or Sleeping"
+3170,"New or Occasional"
+3171,Champions
+3172,Champions
+3173,"Lost or Sleeping"
+3175,Champions
+3176,Champions
+3177,"Lost or Sleeping"
+3178,"Lost or Sleeping"
+3180,Champions
+3181,"Lost or Sleeping"
+3182,Champions
+3184,"Lost or Sleeping"
+3186,"Lost or Sleeping"
+3187,"At Risk"
+3189,"Lost or Sleeping"
+3190,"New or Occasional"
+3192,Champions
+3193,"At Risk"
+3195,"At Risk"
+3196,Champions
+3198,"Lost or Sleeping"
+3199,"At Risk"
+3200,"New or Occasional"
+3201,"New or Occasional"
+3202,"New or Occasional"
+3204,"At Risk"
+3205,"Lost or Sleeping"
+3206,"Lost or Sleeping"
+3209,"Lost or Sleeping"
+3210,"New or Occasional"
+3211,"At Risk"
+3213,Champions
+3214,Champions
+3215,"New or Occasional"
+3216,Champions
+3217,"At Risk"
+3218,"At Risk"
+3220,"Lost or Sleeping"
+3221,Champions
+3223,"Lost or Sleeping"
+3224,"Lost or Sleeping"
+3225,"Lost or Sleeping"
+3227,"Lost or Sleeping"
+3228,Champions
+3229,Champions
+3231,Champions
+3232,"New or Occasional"
+3233,"Lost or Sleeping"
+3234,Champions
+3235,"At Risk"
+3236,"At Risk"
+3239,"At Risk"
+3240,"Lost or Sleeping"
+3241,Champions
+3242,"Lost or Sleeping"
+3243,"Lost or Sleeping"
+3244,Champions
+3245,"Lost or Sleeping"
+3246,Champions
+3247,Champions
+3248,"Lost or Sleeping"
+3249,"Lost or Sleeping"
+3250,"New or Occasional"
+3251,"At Risk"
+3252,Champions
+3253,Champions
+3254,"Lost or Sleeping"
+3255,"At Risk"
+3256,Champions
+3259,"New or Occasional"
+3260,"Lost or Sleeping"
+3262,"New or Occasional"
+3263,"At Risk"
+3264,"Lost or Sleeping"
+3265,Champions
+3266,"Lost or Sleeping"
+3267,Champions
+3268,Champions
+3270,"Lost or Sleeping"
+3273,Champions
+3274,"Lost or Sleeping"
+3275,"Lost or Sleeping"
+3276,"At Risk"
+3277,"At Risk"
+3278,"New or Occasional"
+3279,"At Risk"
+3280,"Lost or Sleeping"
+3282,Champions
+3283,"New or Occasional"
+3284,Champions
+3285,"At Risk"
+3286,Champions
+3288,Champions
+3289,Champions
+3290,Champions
+3291,"Lost or Sleeping"
+3292,"At Risk"
+3294,"New or Occasional"
+3295,Champions
+3296,Champions
+3297,"Lost or Sleeping"
+3298,"New or Occasional"
+3299,Champions
+3300,Champions
+3301,"Lost or Sleeping"
+3302,"At Risk"
+3304,"Lost or Sleeping"
+3305,"New or Occasional"
+3306,Champions
+3307,Champions
+3308,"Lost or Sleeping"
+3309,"New or Occasional"
+3310,"New or Occasional"
+3311,"Lost or Sleeping"
+3314,Champions
+3316,Champions
+3317,Champions
+3318,"Lost or Sleeping"
+3319,"Lost or Sleeping"
+3320,"Lost or Sleeping"
+3322,"At Risk"
+3323,"New or Occasional"
+3324,"At Risk"
+3325,"New or Occasional"
+3326,Champions
+3327,Champions
+3328,"New or Occasional"
+3329,Champions
+3330,"Lost or Sleeping"
+3332,"Lost or Sleeping"
+3333,Champions
+3336,Champions
+3337,"New or Occasional"
+3338,"New or Occasional"
+3339,"New or Occasional"
+3340,"New or Occasional"
+3341,Champions
+3342,"At Risk"
+3344,"Lost or Sleeping"
+3345,"At Risk"
+3346,"At Risk"
+3347,"Lost or Sleeping"
+3348,"New or Occasional"
+3349,"New or Occasional"
+3350,Champions
+3351,"Lost or Sleeping"
+3352,"Lost or Sleeping"
+3353,Champions
+3355,Champions
+3357,Champions
+3359,"Lost or Sleeping"
+3360,"At Risk"
+3361,"Lost or Sleeping"
+3362,"Lost or Sleeping"
+3363,Champions
+3365,"Lost or Sleeping"
+3367,"At Risk"
+3368,"New or Occasional"
+3369,"New or Occasional"
+3371,"New or Occasional"
+3372,"Lost or Sleeping"
+3373,"Lost or Sleeping"
+3374,Champions
+3375,Champions
+3376,Champions
+3377,Champions
+3379,Champions
+3380,Champions
+3381,"At Risk"
+3382,"Lost or Sleeping"
+3383,"Lost or Sleeping"
+3384,"At Risk"
+3385,"At Risk"
+3386,Champions
+3387,"New or Occasional"
+3388,"At Risk"
+3390,"Lost or Sleeping"
+3391,"Lost or Sleeping"
+3392,Champions
+3393,"Lost or Sleeping"
+3394,"Lost or Sleeping"
+3398,Champions
+3400,"Lost or Sleeping"
+3401,"Lost or Sleeping"
+3405,Champions
+3406,Champions
+3408,Champions
+3409,Champions
+3410,"At Risk"
+3411,"Lost or Sleeping"
+3413,"At Risk"
+3414,Champions
+3415,"Lost or Sleeping"
+3418,Champions
+3419,"Lost or Sleeping"
+3420,"New or Occasional"
+3422,"New or Occasional"
+3423,"Lost or Sleeping"
+3424,Champions
+3425,Champions
+3426,Champions
+3427,Champions
+3428,"Lost or Sleeping"
+3430,"Lost or Sleeping"
+3431,"At Risk"
+3432,Champions
+3433,"Lost or Sleeping"
+3434,"New or Occasional"
+3436,"At Risk"
+3437,"New or Occasional"
+3438,Champions
+3439,"Lost or Sleeping"
+3440,"At Risk"
+3441,"New or Occasional"
+3442,Champions
+3443,Champions
+3444,"Lost or Sleeping"
+3445,Champions
+3446,Champions
+3447,"Lost or Sleeping"
+3448,"Lost or Sleeping"
+3450,Champions
+3451,"Lost or Sleeping"
+3452,Champions
+3453,Champions
+3454,"Lost or Sleeping"
+3455,Champions
+3456,"New or Occasional"
+3457,"New or Occasional"
+3458,"New or Occasional"
+3459,"At Risk"
+3460,Champions
+3461,Champions
+3462,"Lost or Sleeping"
+3463,"New or Occasional"
+3464,Champions
+3465,"Lost or Sleeping"
+3466,"At Risk"
+3468,"At Risk"
+3469,"New or Occasional"
+3470,Champions
+3471,"New or Occasional"
+3472,"Lost or Sleeping"
+3474,"Lost or Sleeping"
+3476,Champions
+3477,Champions
+3478,Champions
+3479,Champions
+3480,"Lost or Sleeping"
+3481,Champions
+3482,"Lost or Sleeping"
+3483,Champions
+3484,"Lost or Sleeping"
+3485,"Lost or Sleeping"
+3486,"At Risk"
+3487,Champions
+3488,"At Risk"
+3489,Champions
+3490,"New or Occasional"
+3491,"Lost or Sleeping"
+3492,Champions
+3494,"Lost or Sleeping"
+3495,"Lost or Sleeping"
+3496,"Lost or Sleeping"
+3497,"At Risk"
+3498,"Lost or Sleeping"
+3499,"Lost or Sleeping"
+3501,Champions
+3502,Champions
+3503,Champions
+3505,"New or Occasional"
+3506,"New or Occasional"
+3508,"Lost or Sleeping"
+3509,"Lost or Sleeping"
+3511,Champions
+3512,Champions
+3513,Champions
+3514,"New or Occasional"
+3515,Champions
+3516,"At Risk"
+3517,"At Risk"
+3518,"New or Occasional"
+3519,"Lost or Sleeping"
+3520,"At Risk"
+3521,Champions
+3522,"Lost or Sleeping"
+3523,"New or Occasional"
+3524,"At Risk"
+3525,"Lost or Sleeping"
+3526,"At Risk"
+3527,"At Risk"
+3528,Champions
+3529,"At Risk"
+3530,"At Risk"
+3531,"Lost or Sleeping"
+3532,"At Risk"
+3533,"Lost or Sleeping"
+3534,"New or Occasional"
+3535,"Lost or Sleeping"
+3536,"New or Occasional"
+3538,Champions
+3539,"Lost or Sleeping"
+3541,"Lost or Sleeping"
+3542,"New or Occasional"
+3543,"Lost or Sleeping"
+3544,Champions
+3545,Champions
+3546,"At Risk"
+3547,"New or Occasional"
+3548,"New or Occasional"
+3549,"Lost or Sleeping"
+3551,"Lost or Sleeping"
+3553,"New or Occasional"
+3554,"Lost or Sleeping"
+3555,"Lost or Sleeping"
+3556,"At Risk"
+3557,Champions
+3558,Champions
+3559,"Lost or Sleeping"
+3561,"Lost or Sleeping"
+3562,"At Risk"
+3563,"Lost or Sleeping"
+3564,"Lost or Sleeping"
+3566,"At Risk"
+3568,"Lost or Sleeping"
+3569,"At Risk"
+3570,"Lost or Sleeping"
+3571,"Lost or Sleeping"
+3572,"New or Occasional"
+3574,Champions
+3576,Champions
+3577,"Lost or Sleeping"
+3578,"New or Occasional"
+3579,Champions
+3580,"Lost or Sleeping"
+3581,"Lost or Sleeping"
+3583,Champions
+3584,Champions
+3585,"Lost or Sleeping"
+3587,"At Risk"
+3590,Champions
+3591,Champions
+3593,"New or Occasional"
+3595,"At Risk"
+3596,"At Risk"
+3597,Champions
+3598,"New or Occasional"
+3600,"Lost or Sleeping"
+3601,"Lost or Sleeping"
+3602,"Lost or Sleeping"
+3604,Champions
+3605,"At Risk"
+3606,"New or Occasional"
+3607,Champions
+3608,"At Risk"
+3609,"Lost or Sleeping"
+3610,"Lost or Sleeping"
+3612,"Lost or Sleeping"
+3613,"New or Occasional"
+3614,"Lost or Sleeping"
+3615,"Lost or Sleeping"
+3617,"Lost or Sleeping"
+3618,Champions
+3619,"Lost or Sleeping"
+3620,"Lost or Sleeping"
+3621,"At Risk"
+3622,Champions
+3623,"Lost or Sleeping"
+3624,"At Risk"
+3625,Champions
+3627,"Lost or Sleeping"
+3628,Champions
+3629,"New or Occasional"
+3630,"At Risk"
+3631,Champions
+3632,Champions
+3633,"Lost or Sleeping"
+3636,"Lost or Sleeping"
+3637,"New or Occasional"
+3638,"Lost or Sleeping"
+3639,"Lost or Sleeping"
+3640,Champions
+3641,"Lost or Sleeping"
+3642,"New or Occasional"
+3643,"Lost or Sleeping"
+3644,"Lost or Sleeping"
+3645,"New or Occasional"
+3647,"New or Occasional"
+3648,Champions
+3649,Champions
+3651,Champions
+3653,"Lost or Sleeping"
+3654,"Lost or Sleeping"
+3655,Champions
+3656,"New or Occasional"
+3657,Champions
+3658,"Lost or Sleeping"
+3659,Champions
+3660,Champions
+3661,Champions
+3663,"At Risk"
+3664,"At Risk"
+3665,"At Risk"
+3667,"At Risk"
+3668,"At Risk"
+3670,"At Risk"
+3671,"Lost or Sleeping"
+3673,"New or Occasional"
+3674,Champions
+3675,"New or Occasional"
+3676,Champions
+3677,"At Risk"
+3678,"At Risk"
+3679,Champions
+3680,"Lost or Sleeping"
+3681,Champions
+3682,"New or Occasional"
+3684,"New or Occasional"
+3686,Champions
+3687,"New or Occasional"
+3688,"Lost or Sleeping"
+3689,Champions
+3690,Champions
+3691,Champions
+3692,"Lost or Sleeping"
+3693,Champions
+3694,"At Risk"
+3695,"Lost or Sleeping"
+3697,Champions
+3698,"At Risk"
+3700,"At Risk"
+3701,"Lost or Sleeping"
+3703,Champions
+3704,"Lost or Sleeping"
+3706,"Lost or Sleeping"
+3708,Champions
+3709,"Lost or Sleeping"
+3710,Champions
+3712,"New or Occasional"
+3713,Champions
+3716,Champions
+3717,Champions
+3718,Champions
+3719,"Lost or Sleeping"
+3720,"At Risk"
+3721,"Lost or Sleeping"
+3722,"New or Occasional"
+3723,"At Risk"
+3724,"Lost or Sleeping"
+3725,"Lost or Sleeping"
+3726,"Lost or Sleeping"
+3727,Champions
+3728,Champions
+3730,Champions
+3731,Champions
+3733,"Lost or Sleeping"
+3734,"Lost or Sleeping"
+3735,"Lost or Sleeping"
+3736,Champions
+3737,Champions
+3739,"Lost or Sleeping"
+3740,"New or Occasional"
+3741,Champions
+3742,"At Risk"
+3744,"Lost or Sleeping"
+3745,Champions
+3746,"Lost or Sleeping"
+3748,"Lost or Sleeping"
+3750,"Lost or Sleeping"
+3751,"Lost or Sleeping"
+3752,"New or Occasional"
+3753,"New or Occasional"
+3754,"Lost or Sleeping"
+3755,"Lost or Sleeping"
+3756,"Lost or Sleeping"
+3758,Champions
+3759,Champions
+3760,Champions
+3762,"Lost or Sleeping"
+3763,Champions
+3765,Champions
+3766,"At Risk"
+3767,Champions
+3768,Champions
+3769,"Lost or Sleeping"
+3770,"New or Occasional"
+3771,Champions
+3772,"New or Occasional"
+3773,"At Risk"
+3774,"Lost or Sleeping"
+3775,"At Risk"
+3776,Champions
+3777,"New or Occasional"
+3778,Champions
+3779,Champions
+3780,"New or Occasional"
+3781,Champions
+3782,"At Risk"
+3783,"At Risk"
+3784,Champions
+3787,"New or Occasional"
+3788,"Lost or Sleeping"
+3789,Champions
+3790,"New or Occasional"
+3791,"Lost or Sleeping"
+3792,"New or Occasional"
+3793,Champions
+3795,Champions
+3796,Champions
+3797,"New or Occasional"
+3798,"Lost or Sleeping"
+3799,"At Risk"
+3800,"At Risk"
+3801,"At Risk"
+3802,Champions
+3803,"New or Occasional"
+3805,"Lost or Sleeping"
+3806,Champions
+3807,Champions
+3808,Champions
+3809,"Lost or Sleeping"
+3810,"New or Occasional"
+3811,"New or Occasional"
+3812,Champions
+3813,Champions
+3814,Champions
+3815,Champions
+3816,"Lost or Sleeping"
+3817,"At Risk"
+3818,"Lost or Sleeping"
+3819,"Lost or Sleeping"
+3820,"At Risk"
+3821,"New or Occasional"
+3822,"At Risk"
+3824,Champions
+3825,Champions
+3826,Champions
+3827,"At Risk"
+3828,"Lost or Sleeping"
+3830,Champions
+3832,"At Risk"
+3833,"New or Occasional"
+3835,"Lost or Sleeping"
+3836,"At Risk"
+3837,"At Risk"
+3839,Champions
+3840,"Lost or Sleeping"
+3841,Champions
+3842,"New or Occasional"
+3843,"Lost or Sleeping"
+3844,"Lost or Sleeping"
+3845,"New or Occasional"
+3846,"Lost or Sleeping"
+3847,Champions
+3848,Champions
+3850,Champions
+3851,"Lost or Sleeping"
+3852,"At Risk"
+3853,Champions
+3854,Champions
+3855,"Lost or Sleeping"
+3857,"Lost or Sleeping"
+3858,"Lost or Sleeping"
+3859,Champions
+3860,Champions
+3861,"New or Occasional"
+3862,"New or Occasional"
+3863,"New or Occasional"
+3865,Champions
+3867,Champions
+3868,Champions
+3869,"Lost or Sleeping"
+3870,"At Risk"
+3871,"At Risk"
+3874,"New or Occasional"
+3875,"New or Occasional"
+3877,Champions
+3878,Champions
+3879,"Lost or Sleeping"
+3880,"Lost or Sleeping"
+3883,"New or Occasional"
+3884,"New or Occasional"
+3885,"Lost or Sleeping"
+3886,"New or Occasional"
+3887,Champions
+3889,"Lost or Sleeping"
+3890,"New or Occasional"
+3891,"Lost or Sleeping"
+3892,Champions
+3893,Champions
+3894,"Lost or Sleeping"
+3895,"Lost or Sleeping"
+3897,Champions
+3898,"Lost or Sleeping"
+3899,"At Risk"
+3900,Champions
+3902,"Lost or Sleeping"
+3903,"Lost or Sleeping"
+3904,"New or Occasional"
+3905,"At Risk"
+3906,Champions
+3907,"At Risk"
+3908,"At Risk"
+3910,"Lost or Sleeping"
+3911,Champions
+3912,"At Risk"
+3915,Champions
+3916,"New or Occasional"
+3917,Champions
+3918,"At Risk"
+3919,"Lost or Sleeping"
+3920,Champions
+3921,"New or Occasional"
+3922,"At Risk"
+3923,"Lost or Sleeping"
+3924,"Lost or Sleeping"
+3925,"New or Occasional"
+3926,"At Risk"
+3927,"Lost or Sleeping"
+3929,Champions
+3930,Champions
+3933,Champions
+3934,Champions
+3935,"Lost or Sleeping"
+3936,"New or Occasional"
+3937,"At Risk"
+3939,"New or Occasional"
+3940,"Lost or Sleeping"
+3941,"At Risk"
+3942,"New or Occasional"
+3943,"At Risk"
+3944,Champions
+3945,Champions
+3946,"Lost or Sleeping"
+3949,"New or Occasional"
+3950,"Lost or Sleeping"
+3951,Champions
+3952,"New or Occasional"
+3953,"At Risk"
+3954,"Lost or Sleeping"
+3955,Champions
+3956,"Lost or Sleeping"
+3957,"Lost or Sleeping"
+3958,Champions
+3959,"At Risk"
+3960,"New or Occasional"
+3961,"Lost or Sleeping"
+3962,Champions
+3964,"At Risk"
+3965,"Lost or Sleeping"
+3966,"Lost or Sleeping"
+3967,"New or Occasional"
+3968,"Lost or Sleeping"
+3969,Champions
+3970,"At Risk"
+3971,Champions
+3972,"At Risk"
+3973,Champions
+3974,"New or Occasional"
+3975,"At Risk"
+3976,"Lost or Sleeping"
+3977,Champions
+3978,"Lost or Sleeping"
+3979,Champions
+3980,"Lost or Sleeping"
+3981,"Lost or Sleeping"
+3982,Champions
+3983,"Lost or Sleeping"
+3984,"At Risk"
+3985,"At Risk"
+3987,"At Risk"
+3988,"At Risk"
+3989,"Lost or Sleeping"
+3990,"New or Occasional"
+3991,Champions
+3992,Champions
+3993,"New or Occasional"
+3994,Champions
+3995,"New or Occasional"
+3996,"At Risk"
+3997,Champions
+3998,"New or Occasional"
+4001,"New or Occasional"
+4002,"New or Occasional"
+4004,"At Risk"
+4005,"Lost or Sleeping"
+4006,Champions
+4007,Champions
+4008,"New or Occasional"
+4009,"New or Occasional"
+4010,"Lost or Sleeping"
+4011,Champions
+4012,"Lost or Sleeping"
+4014,"Lost or Sleeping"
+4015,Champions
+4016,"Lost or Sleeping"
+4018,"New or Occasional"
+4019,"New or Occasional"
+4020,"At Risk"
+4021,"Lost or Sleeping"
+4023,"New or Occasional"
+4024,"Lost or Sleeping"
+4026,"At Risk"
+4027,"At Risk"
+4028,Champions
+4029,"Lost or Sleeping"
+4031,Champions
+4032,"New or Occasional"
+4033,"Lost or Sleeping"
+4034,"At Risk"
+4035,"At Risk"
+4036,"Lost or Sleeping"
+4037,"New or Occasional"
+4038,"Lost or Sleeping"
+4039,Champions
+4040,"New or Occasional"
+4041,Champions
+4042,"Lost or Sleeping"
+4043,Champions
+4044,"At Risk"
+4045,"Lost or Sleeping"
+4047,"Lost or Sleeping"
+4048,"Lost or Sleeping"
+4050,Champions
+4051,"New or Occasional"
+4052,"Lost or Sleeping"
+4053,"Lost or Sleeping"
+4054,"New or Occasional"
+4055,Champions
+4056,Champions
+4057,"Lost or Sleeping"
+4058,Champions
+4059,Champions
+4061,Champions
+4063,"Lost or Sleeping"
+4066,Champions
+4067,"At Risk"
+4068,"Lost or Sleeping"
+4070,Champions
+4071,Champions
+4072,"At Risk"
+4073,Champions
+4074,"Lost or Sleeping"
+4075,Champions
+4076,"Lost or Sleeping"
+4077,Champions
+4078,Champions
+4079,Champions
+4080,"Lost or Sleeping"
+4081,"Lost or Sleeping"
+4082,"Lost or Sleeping"
+4083,"New or Occasional"
+4084,Champions
+4085,Champions
+4086,Champions
+4087,"At Risk"
+4089,Champions
+4090,"Lost or Sleeping"
+4091,"New or Occasional"
+4092,Champions
+4094,"At Risk"
+4095,Champions
+4096,Champions
+4097,"Lost or Sleeping"
+4098,"At Risk"
+4099,Champions
+4100,Champions
+4101,"New or Occasional"
+4103,Champions
+4104,"At Risk"
+4105,Champions
+4106,"Lost or Sleeping"
+4107,Champions
+4108,"Lost or Sleeping"
+4109,"Lost or Sleeping"
+4111,"Lost or Sleeping"
+4112,"At Risk"
+4113,"At Risk"
+4114,"Lost or Sleeping"
+4115,"Lost or Sleeping"
+4116,"Lost or Sleeping"
+4117,"At Risk"
+4118,Champions
+4119,"Lost or Sleeping"
+4120,"Lost or Sleeping"
+4121,"At Risk"
+4122,Champions
+4123,Champions
+4124,"Lost or Sleeping"
+4125,Champions
+4126,"New or Occasional"
+4128,"At Risk"
+4129,"Lost or Sleeping"
+4130,Champions
+4131,Champions
+4132,"Lost or Sleeping"
+4133,"Lost or Sleeping"
+4138,Champions
+4139,Champions
+4142,"At Risk"
+4143,Champions
+4145,"At Risk"
+4146,Champions
+4148,Champions
+4149,Champions
+4150,Champions
+4151,"Lost or Sleeping"
+4152,"At Risk"
+4153,Champions
+4155,"New or Occasional"
+4156,Champions
+4157,"At Risk"
+4158,Champions
+4159,"Lost or Sleeping"
+4160,"New or Occasional"
+4162,"New or Occasional"
+4163,"Lost or Sleeping"
+4164,"New or Occasional"
+4165,Champions
+4166,"Lost or Sleeping"
+4167,Champions
+4169,"New or Occasional"
+4170,"Lost or Sleeping"
+4171,"Lost or Sleeping"
+4172,Champions
+4173,"Lost or Sleeping"
+4174,"At Risk"
+4175,Champions
+4176,Champions
+4177,"Lost or Sleeping"
+4178,"Lost or Sleeping"
+4179,"Lost or Sleeping"
+4180,Champions
+4181,Champions
+4182,"Lost or Sleeping"
+4183,"Lost or Sleeping"
+4184,Champions
+4185,"New or Occasional"
+4187,"New or Occasional"
+4188,"At Risk"
+4189,"Lost or Sleeping"
+4190,"Lost or Sleeping"
+4191,Champions
+4193,"At Risk"
+4194,Champions
+4196,"At Risk"
+4197,"Lost or Sleeping"
+4198,"New or Occasional"
+4199,"Lost or Sleeping"
+4201,"At Risk"
+4202,"Lost or Sleeping"
+4203,Champions
+4204,"Lost or Sleeping"
+4205,"New or Occasional"
+4206,"At Risk"
+4207,"Lost or Sleeping"
+4208,Champions
+4209,"Lost or Sleeping"
+4210,"Lost or Sleeping"
+4212,"New or Occasional"
+4213,"Lost or Sleeping"
+4214,"Lost or Sleeping"
+4216,"Lost or Sleeping"
+4217,"Lost or Sleeping"
+4218,"Lost or Sleeping"
+4219,"New or Occasional"
+4220,Champions
+4221,"Lost or Sleeping"
+4222,Champions
+4223,Champions
+4224,Champions
+4225,Champions
+4226,"At Risk"
+4227,Champions
+4228,"At Risk"
+4229,"At Risk"
+4230,Champions
+4231,Champions
+4234,Champions
+4235,"Lost or Sleeping"
+4236,"New or Occasional"
+4238,"At Risk"
+4239,"Lost or Sleeping"
+4240,Champions
+4241,"Lost or Sleeping"
+4242,"At Risk"
+4243,Champions
+4245,Champions
+4247,"At Risk"
+4250,"New or Occasional"
+4252,"Lost or Sleeping"
+4253,"Lost or Sleeping"
+4254,"Lost or Sleeping"
+4255,"At Risk"
+4258,Champions
+4259,"New or Occasional"
+4261,"Lost or Sleeping"
+4262,"Lost or Sleeping"
+4263,Champions
+4264,Champions
+4265,"Lost or Sleeping"
+4266,Champions
+4267,"Lost or Sleeping"
+4268,"At Risk"
+4270,"Lost or Sleeping"
+4271,Champions
+4272,"New or Occasional"
+4273,Champions
+4274,"New or Occasional"
+4276,"Lost or Sleeping"
+4277,Champions
+4278,Champions
+4279,"Lost or Sleeping"
+4281,"New or Occasional"
+4283,"Lost or Sleeping"
+4284,"Lost or Sleeping"
+4285,"Lost or Sleeping"
+4286,"Lost or Sleeping"
+4287,"Lost or Sleeping"
+4288,"At Risk"
+4289,Champions
+4290,"Lost or Sleeping"
+4291,"At Risk"
+4292,"Lost or Sleeping"
+4293,"Lost or Sleeping"
+4294,"Lost or Sleeping"
+4295,Champions
+4296,"New or Occasional"
+4297,Champions
+4300,Champions
+4301,Champions
+4302,"At Risk"
+4303,Champions
+4304,"New or Occasional"
+4305,Champions
+4307,"At Risk"
+4309,Champions
+4311,"At Risk"
+4312,"At Risk"
+4313,"New or Occasional"
+4314,"At Risk"
+4316,Champions
+4317,"Lost or Sleeping"
+4318,Champions
+4319,Champions
+4320,Champions
+4321,Champions
+4322,"Lost or Sleeping"
+4323,"At Risk"
+4324,"Lost or Sleeping"
+4325,"New or Occasional"
+4326,"Lost or Sleeping"
+4327,"Lost or Sleeping"
+4328,Champions
+4329,"Lost or Sleeping"
+4330,Champions
+4331,"Lost or Sleeping"
+4332,"New or Occasional"
+4333,"New or Occasional"
+4334,"Lost or Sleeping"
+4335,Champions
+4336,"New or Occasional"
+4338,"Lost or Sleeping"
+4339,"New or Occasional"
+4340,"Lost or Sleeping"
+4341,"New or Occasional"
+4342,"Lost or Sleeping"
+4343,"Lost or Sleeping"
+4344,"Lost or Sleeping"
+4345,Champions
+4346,"Lost or Sleeping"
+4348,"New or Occasional"
+4350,"Lost or Sleeping"
+4351,"Lost or Sleeping"
+4352,Champions
+4353,Champions
+4354,"Lost or Sleeping"
+4355,Champions
+4356,"Lost or Sleeping"
+4357,Champions
+4358,Champions
+4359,"Lost or Sleeping"
+4360,"Lost or Sleeping"
+4361,"New or Occasional"
+4362,Champions
+4363,"New or Occasional"
+4364,Champions
+4365,"New or Occasional"
+4366,Champions
+4367,"New or Occasional"
+4368,"Lost or Sleeping"
+4369,"Lost or Sleeping"
+4370,"New or Occasional"
+4371,"Lost or Sleeping"
+4372,"At Risk"
+4373,"Lost or Sleeping"
+4374,Champions
+4375,"Lost or Sleeping"
+4377,"New or Occasional"
+4378,"Lost or Sleeping"
+4379,"Lost or Sleeping"
+4380,Champions
+4382,"Lost or Sleeping"
+4383,Champions
+4384,"Lost or Sleeping"
+4385,Champions
+4386,"Lost or Sleeping"
+4387,Champions
+4388,Champions
+4389,"New or Occasional"
+4390,"At Risk"
+4391,"At Risk"
+4392,Champions
+4393,Champions
+4395,"Lost or Sleeping"
+4396,Champions
+4397,"At Risk"
+4398,Champions
+4399,Champions
+4400,"At Risk"
+4401,"Lost or Sleeping"
+4402,Champions
+4403,"Lost or Sleeping"
+4404,Champions
+4405,"New or Occasional"
+4407,"At Risk"
+4408,Champions
+4410,Champions
+4411,"Lost or Sleeping"
+4412,"Lost or Sleeping"
+4413,"New or Occasional"
+4414,"At Risk"
+4415,Champions
+4416,"Lost or Sleeping"
+4417,Champions
+4418,"New or Occasional"
+4419,Champions
+4421,"At Risk"
+4424,"New or Occasional"
+4426,"At Risk"
+4427,"At Risk"
+4428,"Lost or Sleeping"
+4429,Champions
+4430,"At Risk"
+4431,"Lost or Sleeping"
+4432,"Lost or Sleeping"
+4434,"New or Occasional"
+4435,Champions
+4436,"At Risk"
+4438,Champions
+4439,"Lost or Sleeping"
+4441,"At Risk"
+4442,"New or Occasional"
+4443,"Lost or Sleeping"
+4444,Champions
+4445,"Lost or Sleeping"
+4446,Champions
+4447,Champions
+4449,Champions
+4450,"Lost or Sleeping"
+4451,"At Risk"
+4453,"Lost or Sleeping"
+4454,"At Risk"
+4455,Champions
+4456,Champions
+4457,"Lost or Sleeping"
+4458,"New or Occasional"
+4459,"New or Occasional"
+4460,Champions
+4462,Champions
+4463,"Lost or Sleeping"
+4464,"Lost or Sleeping"
+4465,"At Risk"
+4466,Champions
+4467,"New or Occasional"
+4468,Champions
+4470,"Lost or Sleeping"
+4471,"At Risk"
+4472,"At Risk"
+4474,"At Risk"
+4476,Champions
+4477,Champions
+4478,"New or Occasional"
+4479,Champions
+4480,"At Risk"
+4482,Champions
+4483,"Lost or Sleeping"
+4484,Champions
+4485,Champions
+4486,"At Risk"
+4487,Champions
+4488,"Lost or Sleeping"
+4489,Champions
+4491,"Lost or Sleeping"
+4492,Champions
+4493,Champions
+4494,"New or Occasional"
+4495,Champions
+4496,"New or Occasional"
+4497,Champions
+4499,Champions
+4500,"New or Occasional"
+4501,"At Risk"
+4504,Champions
+4505,"Lost or Sleeping"
+4506,Champions
+4507,"Lost or Sleeping"
+4510,"Lost or Sleeping"
+4511,"Lost or Sleeping"
+4512,"At Risk"
+4513,"Lost or Sleeping"
+4514,"At Risk"
+4515,"At Risk"
+4517,"At Risk"
+4519,Champions
+4520,"Lost or Sleeping"
+4521,"New or Occasional"
+4522,"Lost or Sleeping"
+4523,"New or Occasional"
+4524,"Lost or Sleeping"
+4525,"Lost or Sleeping"
+4526,"Lost or Sleeping"
+4527,"New or Occasional"
+4528,Champions
+4529,"New or Occasional"
+4530,"New or Occasional"
+4531,Champions
+4533,"Lost or Sleeping"
+4534,"New or Occasional"
+4535,"At Risk"
+4537,"Lost or Sleeping"
+4539,Champions
+4540,Champions
+4541,"Lost or Sleeping"
+4542,"Lost or Sleeping"
+4543,"New or Occasional"
+4544,"Lost or Sleeping"
+4545,"Lost or Sleeping"
+4546,"New or Occasional"
+4547,Champions
+4548,"At Risk"
+4549,Champions
+4550,"Lost or Sleeping"
+4553,Champions
+4554,Champions
+4555,"At Risk"
+4556,"New or Occasional"
+4557,"New or Occasional"
+4558,"Lost or Sleeping"
+4559,"Lost or Sleeping"
+4561,Champions
+4562,Champions
+4563,"New or Occasional"
+4564,"Lost or Sleeping"
+4565,Champions
+4566,"Lost or Sleeping"
+4567,"Lost or Sleeping"
+4568,Champions
+4569,"Lost or Sleeping"
+4570,"Lost or Sleeping"
+4571,"At Risk"
+4572,Champions
+4573,Champions
+4574,"Lost or Sleeping"
+4575,"Lost or Sleeping"
+4576,"Lost or Sleeping"
+4577,"Lost or Sleeping"
+4578,Champions
+4579,"At Risk"
+4580,Champions
+4581,Champions
+4582,"Lost or Sleeping"
+4583,Champions
+4584,Champions
+4586,Champions
+4587,"Lost or Sleeping"
+4588,Champions
+4589,"New or Occasional"
+4590,"Lost or Sleeping"
+4591,"Lost or Sleeping"
+4592,Champions
+4594,"At Risk"
+4595,"Lost or Sleeping"
+4596,"New or Occasional"
+4597,Champions
+4598,"At Risk"
+4599,Champions
+4600,Champions
+4601,"Lost or Sleeping"
+4602,"Lost or Sleeping"
+4603,"At Risk"
+4605,Champions
+4606,"At Risk"
+4607,"New or Occasional"
+4609,"Lost or Sleeping"
+4610,"New or Occasional"
+4611,"New or Occasional"
+4612,Champions
+4613,Champions
+4615,"Lost or Sleeping"
+4616,"Lost or Sleeping"
+4617,"Lost or Sleeping"
+4618,"Lost or Sleeping"
+4619,Champions
+4621,"Lost or Sleeping"
+4623,"Lost or Sleeping"
+4625,Champions
+4626,Champions
+4628,Champions
+4629,"At Risk"
+4630,"At Risk"
+4631,"Lost or Sleeping"
+4632,Champions
+4633,Champions
+4634,Champions
+4635,Champions
+4637,"Lost or Sleeping"
+4638,Champions
+4639,Champions
+4640,"Lost or Sleeping"
+4641,"Lost or Sleeping"
+4642,Champions
+4643,"Lost or Sleeping"
+4644,"Lost or Sleeping"
+4645,"Lost or Sleeping"
+4646,"New or Occasional"
+4647,"At Risk"
+4648,Champions
+4650,Champions
+4651,"Lost or Sleeping"
+4652,"At Risk"
+4653,Champions
+4654,Champions
+4655,"At Risk"
+4656,"Lost or Sleeping"
+4658,"Lost or Sleeping"
+4659,"Lost or Sleeping"
+4660,Champions
+4661,"New or Occasional"
+4662,"Lost or Sleeping"
+4664,"New or Occasional"
+4667,Champions
+4668,"New or Occasional"
+4669,"New or Occasional"
+4670,Champions
+4673,Champions
+4674,"New or Occasional"
+4675,Champions
+4676,"Lost or Sleeping"
+4677,Champions
+4678,"Lost or Sleeping"
+4679,"At Risk"
+4680,"Lost or Sleeping"
+4682,Champions
+4683,"Lost or Sleeping"
+4684,Champions
+4685,"Lost or Sleeping"
+4686,"At Risk"
+4687,"At Risk"
+4688,"At Risk"
+4690,"Lost or Sleeping"
+4691,Champions
+4693,"Lost or Sleeping"
+4694,Champions
+4696,"New or Occasional"
+4697,Champions
+4698,"New or Occasional"
+4699,Champions
+4700,Champions
+4701,"Lost or Sleeping"
+4702,Champions
+4703,Champions
+4704,"New or Occasional"
+4705,"Lost or Sleeping"
+4706,"Lost or Sleeping"
+4707,"Lost or Sleeping"
+4709,Champions
+4710,"At Risk"
+4711,"Lost or Sleeping"
+4714,"At Risk"
+4715,"New or Occasional"
+4716,"Lost or Sleeping"
+4718,"Lost or Sleeping"
+4719,Champions
+4720,"Lost or Sleeping"
+4722,"At Risk"
+4724,Champions
+4725,Champions
+4726,"New or Occasional"
+4727,Champions
+4728,"Lost or Sleeping"
+4729,"Lost or Sleeping"
+4730,"Lost or Sleeping"
+4731,"Lost or Sleeping"
+4732,Champions
+4733,"Lost or Sleeping"
+4734,Champions
+4735,Champions
+4736,"Lost or Sleeping"
+4737,"Lost or Sleeping"
+4740,"New or Occasional"
+4741,"New or Occasional"
+4742,"At Risk"
+4743,Champions
+4744,"Lost or Sleeping"
+4745,"New or Occasional"
+4746,Champions
+4747,"Lost or Sleeping"
+4748,Champions
+4749,"Lost or Sleeping"
+4751,Champions
+4753,"At Risk"
+4754,"New or Occasional"
+4755,"New or Occasional"
+4756,Champions
+4757,"Lost or Sleeping"
+4759,"Lost or Sleeping"
+4761,"Lost or Sleeping"
+4762,"Lost or Sleeping"
+4764,"At Risk"
+4765,Champions
+4766,"At Risk"
+4767,"Lost or Sleeping"
+4768,"At Risk"
+4769,Champions
+4771,Champions
+4772,"Lost or Sleeping"
+4773,"Lost or Sleeping"
+4774,"Lost or Sleeping"
+4775,"New or Occasional"
+4777,"New or Occasional"
+4778,Champions
+4779,Champions
+4781,"New or Occasional"
+4782,"Lost or Sleeping"
+4783,Champions
+4784,"Lost or Sleeping"
+4785,"At Risk"
+4787,"Lost or Sleeping"
+4788,"Lost or Sleeping"
+4789,"At Risk"
+4790,"At Risk"
+4791,"New or Occasional"
+4792,"Lost or Sleeping"
+4793,"New or Occasional"
+4794,"Lost or Sleeping"
+4795,"At Risk"
+4796,Champions
+4797,"At Risk"
+4798,"New or Occasional"
+4799,Champions
+4800,Champions
+4801,"New or Occasional"
+4802,Champions
+4803,"New or Occasional"
+4804,Champions
+4805,"Lost or Sleeping"
+4807,Champions
+4808,"Lost or Sleeping"
+4809,Champions
+4810,"Lost or Sleeping"
+4811,"At Risk"
+4812,"At Risk"
+4813,Champions
+4814,"Lost or Sleeping"
+4815,"Lost or Sleeping"
+4816,Champions
+4817,"At Risk"
+4819,"New or Occasional"
+4820,"At Risk"
+4821,Champions
+4822,Champions
+4823,"Lost or Sleeping"
+4824,"New or Occasional"
+4825,"New or Occasional"
+4826,"Lost or Sleeping"
+4827,Champions
+4828,Champions
+4829,"Lost or Sleeping"
+4830,"Lost or Sleeping"
+4831,"Lost or Sleeping"
+4832,"New or Occasional"
+4834,"At Risk"
+4835,Champions
+4837,Champions
+4838,Champions
+4839,Champions
+4840,"Lost or Sleeping"
+4841,Champions
+4842,"Lost or Sleeping"
+4843,"At Risk"
+4844,"At Risk"
+4845,"New or Occasional"
+4847,"New or Occasional"
+4848,"New or Occasional"
+4849,"Lost or Sleeping"
+4850,"Lost or Sleeping"
+4851,"Lost or Sleeping"
+4853,"At Risk"
+4854,Champions
+4856,"At Risk"
+4857,"New or Occasional"
+4858,"At Risk"
+4861,"Lost or Sleeping"
+4862,"New or Occasional"
+4863,"At Risk"
+4864,"At Risk"
+4865,"Lost or Sleeping"
+4866,"Lost or Sleeping"
+4867,"Lost or Sleeping"
+4869,"At Risk"
+4870,Champions
+4871,"Lost or Sleeping"
+4872,"Lost or Sleeping"
+4873,"At Risk"
+4874,"Lost or Sleeping"
+4875,"At Risk"
+4876,"Lost or Sleeping"
+4877,Champions
+4879,"At Risk"
+4880,"At Risk"
+4881,Champions
+4884,"Lost or Sleeping"
+4885,Champions
+4886,"New or Occasional"
+4888,Champions
+4889,Champions
+4892,"New or Occasional"
+4893,"Lost or Sleeping"
+4894,"New or Occasional"
+4895,"At Risk"
+4896,"Lost or Sleeping"
+4897,"New or Occasional"
+4898,"Lost or Sleeping"
+4899,"Lost or Sleeping"
+4900,"New or Occasional"
+4901,Champions
+4902,"Lost or Sleeping"
+4903,"At Risk"
+4904,"New or Occasional"
+4905,"At Risk"
+4906,"At Risk"
+4907,Champions
+4908,Champions
+4909,"New or Occasional"
+4910,Champions
+4911,"Lost or Sleeping"
+4912,"New or Occasional"
+4913,Champions
+4914,Champions
+4915,Champions
+4916,"At Risk"
+4917,"At Risk"
+4919,Champions
+4920,"At Risk"
+4921,"New or Occasional"
+4922,"Lost or Sleeping"
+4923,"Lost or Sleeping"
+4924,"New or Occasional"
+4925,Champions
+4926,Champions
+4927,"Lost or Sleeping"
+4928,"Lost or Sleeping"
+4929,Champions
+4930,"Lost or Sleeping"
+4931,"Lost or Sleeping"
+4932,"At Risk"
+4934,"New or Occasional"
+4936,"Lost or Sleeping"
+4937,Champions
+4938,"At Risk"
+4939,Champions
+4940,"Lost or Sleeping"
+4941,Champions
+4942,"New or Occasional"
+4943,Champions
+4944,Champions
+4945,"New or Occasional"
+4947,Champions
+4948,"At Risk"
+4949,"At Risk"
+4950,"At Risk"
+4951,"At Risk"
+4952,"New or Occasional"
+4953,"At Risk"
+4954,"Lost or Sleeping"
+4955,Champions
+4956,"At Risk"
+4957,"New or Occasional"
+4958,"New or Occasional"
+4959,"Lost or Sleeping"
+4960,"New or Occasional"
+4961,"Lost or Sleeping"
+4962,"At Risk"
+4963,Champions
+4964,Champions
+4965,"At Risk"
+4966,Champions
+4967,"Lost or Sleeping"
+4969,"Lost or Sleeping"
+4970,Champions
+4971,Champions
+4973,Champions
+4975,"At Risk"
+4977,"Lost or Sleeping"
+4979,"Lost or Sleeping"
+4980,"Lost or Sleeping"
+4981,"At Risk"
+4982,"Lost or Sleeping"
+4983,Champions
+4986,"Lost or Sleeping"
+4987,Champions
+4988,"At Risk"
+4989,"Lost or Sleeping"
+4990,"Lost or Sleeping"
+4991,Champions
+4992,"At Risk"
+4993,Champions
+4994,Champions
+4995,Champions
+4996,"New or Occasional"
+4998,"Lost or Sleeping"
+4999,"Lost or Sleeping"
+5000,Champions
+5001,Champions
+5005,Champions
+5006,"Lost or Sleeping"
+5007,"New or Occasional"
+5008,"Lost or Sleeping"
+5009,Champions
+5010,"At Risk"
+5011,"Lost or Sleeping"
+5012,"New or Occasional"
+5013,Champions
+5014,"At Risk"
+5015,"Lost or Sleeping"
+5016,"Lost or Sleeping"
+5018,"Lost or Sleeping"
+5019,"At Risk"
+5020,Champions
+5021,"Lost or Sleeping"
+5022,Champions
+5023,"New or Occasional"
+5025,Champions
+5026,"New or Occasional"
+5028,"Lost or Sleeping"
+5030,Champions
+5031,"Lost or Sleeping"
+5032,"At Risk"
+5033,Champions
+5035,"Lost or Sleeping"
+5037,"At Risk"
+5038,"New or Occasional"
+5039,Champions
+5041,"New or Occasional"
+5043,"New or Occasional"
+5045,Champions
+5046,Champions
+5048,Champions
+5049,"New or Occasional"
+5050,"At Risk"
+5051,"New or Occasional"
+5052,Champions
+5053,Champions
+5054,"Lost or Sleeping"
+5056,Champions
+5057,"Lost or Sleeping"
+5058,Champions
+5059,"Lost or Sleeping"
+5060,Champions
+5061,"Lost or Sleeping"
+5062,"At Risk"
+5063,"At Risk"
+5064,Champions
+5065,"Lost or Sleeping"
+5066,Champions
+5067,Champions
+5068,Champions
+5069,"At Risk"
+5070,"At Risk"
+5072,"Lost or Sleeping"
+5073,Champions
+5074,"At Risk"
+5075,"Lost or Sleeping"
+5076,"At Risk"
+5078,Champions
+5079,Champions
+5080,"Lost or Sleeping"
+5081,"Lost or Sleeping"
+5082,"At Risk"
+5083,"Lost or Sleeping"
+5084,"Lost or Sleeping"
+5085,"At Risk"
+5086,"New or Occasional"
+5087,"At Risk"
+5088,"Lost or Sleeping"
+5089,Champions
+5090,Champions
+5093,"Lost or Sleeping"
+5094,Champions
+5095,Champions
+5096,"New or Occasional"
+5097,Champions
+5099,"Lost or Sleeping"
+5100,"Lost or Sleeping"
+5102,"At Risk"
+5104,"Lost or Sleeping"
+5105,"Lost or Sleeping"
+5106,"New or Occasional"
+5107,"Lost or Sleeping"
+5108,"Lost or Sleeping"
+5109,Champions
+5110,"New or Occasional"
+5111,Champions
+5114,Champions
+5115,"Lost or Sleeping"
+5116,"New or Occasional"
+5118,"Lost or Sleeping"
+5119,"Lost or Sleeping"
+5120,Champions
+5121,"Lost or Sleeping"
+5122,"Lost or Sleeping"
+5123,"New or Occasional"
+5124,Champions
+5126,"New or Occasional"
+5127,Champions
+5128,Champions
+5129,"At Risk"
+5130,Champions
+5131,"Lost or Sleeping"
+5132,"At Risk"
+5133,Champions
+5134,Champions
+5135,"At Risk"
+5137,Champions
+5138,"Lost or Sleeping"
+5139,Champions
+5140,"New or Occasional"
+5141,"New or Occasional"
+5142,"New or Occasional"
+5143,Champions
+5144,Champions
+5145,"Lost or Sleeping"
+5146,"At Risk"
+5147,Champions
+5149,"At Risk"
+5150,Champions
+5151,"New or Occasional"
+5152,"Lost or Sleeping"
+5153,"New or Occasional"
+5154,Champions
+5155,"New or Occasional"
+5156,"New or Occasional"
+5157,Champions
+5159,"Lost or Sleeping"
+5160,"Lost or Sleeping"
+5161,"New or Occasional"
+5162,"New or Occasional"
+5163,"Lost or Sleeping"
+5164,"Lost or Sleeping"
+5165,"At Risk"
+5166,Champions
+5167,"New or Occasional"
+5168,"Lost or Sleeping"
+5170,Champions
+5171,"Lost or Sleeping"
+5174,"Lost or Sleeping"
+5175,"Lost or Sleeping"
+5176,"Lost or Sleeping"
+5177,"New or Occasional"
+5178,Champions
+5180,"Lost or Sleeping"
+5181,"At Risk"
+5182,"Lost or Sleeping"
+5183,Champions
+5185,"Lost or Sleeping"
+5186,"Lost or Sleeping"
+5187,"Lost or Sleeping"
+5188,Champions
+5189,Champions
+5190,"New or Occasional"
+5191,"New or Occasional"
+5193,"Lost or Sleeping"
+5194,Champions
+5196,"At Risk"
+5197,"At Risk"
+5198,Champions
+5199,Champions
+5200,"Lost or Sleeping"
+5201,"Lost or Sleeping"
+5202,"New or Occasional"
+5203,Champions
+5204,"At Risk"
+5205,"Lost or Sleeping"
+5207,Champions
+5208,"New or Occasional"
+5209,"Lost or Sleeping"
+5211,"Lost or Sleeping"
+5212,"At Risk"
+5213,"At Risk"
+5214,Champions
+5215,"New or Occasional"
+5217,"Lost or Sleeping"
+5218,Champions
+5219,"New or Occasional"
+5220,Champions
+5222,"Lost or Sleeping"
+5223,"New or Occasional"
+5224,"Lost or Sleeping"
+5225,"Lost or Sleeping"
+5227,"Lost or Sleeping"
+5228,"At Risk"
+5229,"Lost or Sleeping"
+5230,"Lost or Sleeping"
+5231,"At Risk"
+5232,"Lost or Sleeping"
+5233,"Lost or Sleeping"
+5234,"Lost or Sleeping"
+5235,Champions
+5236,Champions
+5237,"New or Occasional"
+5238,"New or Occasional"
+5239,"Lost or Sleeping"
+5240,Champions
+5241,"At Risk"
+5242,Champions
+5243,"At Risk"
+5244,"New or Occasional"
+5246,Champions
+5247,Champions
+5248,Champions
+5250,"New or Occasional"
+5252,Champions
+5254,Champions
+5256,Champions
+5258,"Lost or Sleeping"
+5260,"New or Occasional"
+5262,"New or Occasional"
+5263,"Lost or Sleeping"
+5264,"New or Occasional"
+5265,Champions
+5267,Champions
+5268,"Lost or Sleeping"
+5269,"Lost or Sleeping"
+5270,"Lost or Sleeping"
+5271,"Lost or Sleeping"
+5272,Champions
+5273,"Lost or Sleeping"
+5274,"New or Occasional"
+5275,Champions
+5276,"At Risk"
+5277,Champions
+5278,Champions
+5280,"Lost or Sleeping"
+5281,Champions
+5283,"At Risk"
+5285,"New or Occasional"
+5286,"At Risk"
+5287,Champions
+5288,Champions
+5289,Champions
+5293,"Lost or Sleeping"
+5294,Champions
+5295,Champions
+5296,Champions
+5297,"Lost or Sleeping"
+5298,"New or Occasional"
+5300,"Lost or Sleeping"
+5301,"Lost or Sleeping"
+5302,"Lost or Sleeping"
+5303,"Lost or Sleeping"
+5304,"New or Occasional"
+5305,"Lost or Sleeping"
+5307,"At Risk"
+5309,"Lost or Sleeping"
+5310,"At Risk"
+5311,"Lost or Sleeping"
+5312,"Lost or Sleeping"
+5314,Champions
+5315,"Lost or Sleeping"
+5316,"New or Occasional"
+5318,"Lost or Sleeping"
+5320,"Lost or Sleeping"
+5321,"At Risk"
+5322,"New or Occasional"
+5323,Champions
+5324,Champions
+5325,"Lost or Sleeping"
+5326,"Lost or Sleeping"
+5327,"New or Occasional"
+5328,Champions
+5330,"Lost or Sleeping"
+5331,Champions
+5332,Champions
+5333,"New or Occasional"
+5337,"Lost or Sleeping"
+5338,"New or Occasional"
+5339,"At Risk"
+5340,Champions
+5341,"Lost or Sleeping"
+5342,Champions
+5343,"Lost or Sleeping"
+5344,Champions
+5345,"New or Occasional"
+5346,"At Risk"
+5347,"At Risk"
+5348,"Lost or Sleeping"
+5350,"Lost or Sleeping"
+5351,"New or Occasional"
+5352,"New or Occasional"
+5353,"New or Occasional"
+5354,"New or Occasional"
+5356,"At Risk"
+5357,"Lost or Sleeping"
+5358,Champions
+5359,"New or Occasional"
+5360,Champions
+5361,"Lost or Sleeping"
+5362,"Lost or Sleeping"
+5363,"Lost or Sleeping"
+5364,"At Risk"
+5365,"Lost or Sleeping"
+5366,Champions
+5367,Champions
+5368,"New or Occasional"
+5369,"At Risk"
+5370,Champions
+5371,"Lost or Sleeping"
+5372,"New or Occasional"
+5373,"Lost or Sleeping"
+5374,Champions
+5375,Champions
+5376,"New or Occasional"
+5377,"At Risk"
+5378,"New or Occasional"
+5379,"Lost or Sleeping"
+5380,"Lost or Sleeping"
+5382,"New or Occasional"
+5386,Champions
+5387,Champions
+5388,"Lost or Sleeping"
+5391,"Lost or Sleeping"
+5392,Champions
+5393,"New or Occasional"
+5394,"New or Occasional"
+5395,"Lost or Sleeping"
+5396,"Lost or Sleeping"
+5397,"Lost or Sleeping"
+5398,Champions
+5399,Champions
+5400,"Lost or Sleeping"
+5401,"New or Occasional"
+5402,Champions
+5403,"Lost or Sleeping"
+5404,Champions
+5405,"Lost or Sleeping"
+5407,Champions
+5410,"Lost or Sleeping"
+5411,Champions
+5412,Champions
+5413,"New or Occasional"
+5414,Champions
+5415,Champions
+5416,"Lost or Sleeping"
+5417,Champions
+5418,"Lost or Sleeping"
+5419,"Lost or Sleeping"
+5420,Champions
+5421,Champions
+5423,"At Risk"
+5424,"Lost or Sleeping"
+5425,Champions
+5426,"Lost or Sleeping"
+5427,"New or Occasional"
+5428,"At Risk"
+5429,"At Risk"
+5430,Champions
+5431,"Lost or Sleeping"
+5432,"Lost or Sleeping"
+5433,Champions
+5434,"At Risk"
+5435,"New or Occasional"
+5438,"At Risk"
+5439,"Lost or Sleeping"
+5440,"At Risk"
+5441,"Lost or Sleeping"
+5443,Champions
+5444,Champions
+5447,"Lost or Sleeping"
+5448,"At Risk"
+5449,"At Risk"
+5450,"Lost or Sleeping"
+5451,"Lost or Sleeping"
+5452,"Lost or Sleeping"
+5454,"New or Occasional"
+5455,"At Risk"
+5456,Champions
+5457,Champions
+5458,"Lost or Sleeping"
+5459,"Lost or Sleeping"
+5460,"At Risk"
+5461,"At Risk"
+5462,"Lost or Sleeping"
+5463,"New or Occasional"
+5464,"New or Occasional"
+5467,"New or Occasional"
+5468,Champions
+5469,"Lost or Sleeping"
+5470,"Lost or Sleeping"
+5471,"Lost or Sleeping"
+5472,"Lost or Sleeping"
+5473,Champions
+5474,"Lost or Sleeping"
+5475,"Lost or Sleeping"
+5476,"Lost or Sleeping"
+5477,"New or Occasional"
+5478,"Lost or Sleeping"
+5479,Champions
+5481,Champions
+5483,Champions
+5484,Champions
+5485,Champions
+5486,"Lost or Sleeping"
+5487,"At Risk"
+5489,"Lost or Sleeping"
+5490,"Lost or Sleeping"
+5491,Champions
+5492,Champions
+5494,"Lost or Sleeping"
+5495,"Lost or Sleeping"
+5496,"At Risk"
+5498,"Lost or Sleeping"
+5499,"Lost or Sleeping"
+5500,"Lost or Sleeping"
+5501,"Lost or Sleeping"
+5502,Champions
+5503,"Lost or Sleeping"
+5505,Champions
+5506,"Lost or Sleeping"
+5508,"Lost or Sleeping"
+5509,Champions
+5510,"Lost or Sleeping"
+5511,"At Risk"
+5512,Champions
+5513,"New or Occasional"
+5514,"Lost or Sleeping"
+5515,Champions
+5516,"Lost or Sleeping"
+5517,"At Risk"
+5519,"Lost or Sleeping"
+5520,"New or Occasional"
+5521,Champions
+5524,"New or Occasional"
+5525,"Lost or Sleeping"
+5526,"Lost or Sleeping"
+5527,Champions
+5528,Champions
+5529,"Lost or Sleeping"
+5530,Champions
+5531,"At Risk"
+5533,Champions
+5534,Champions
+5535,"Lost or Sleeping"
+5537,"Lost or Sleeping"
+5538,Champions
+5539,Champions
+5540,Champions
+5541,"Lost or Sleeping"
+5542,"New or Occasional"
+5543,Champions
+5544,"New or Occasional"
+5545,"At Risk"
+5546,"Lost or Sleeping"
+5548,"New or Occasional"
+5549,"Lost or Sleeping"
+5550,"Lost or Sleeping"
+5552,"Lost or Sleeping"
+5553,"At Risk"
+5554,"At Risk"
+5556,"At Risk"
+5558,"Lost or Sleeping"
+5560,"New or Occasional"
+5562,"Lost or Sleeping"
+5563,"Lost or Sleeping"
+5564,"Lost or Sleeping"
+5566,"At Risk"
+5567,"Lost or Sleeping"
+5568,"Lost or Sleeping"
+5569,"Lost or Sleeping"
+5570,Champions
+5571,"New or Occasional"
+5572,"New or Occasional"
+5573,"At Risk"
+5574,"At Risk"
+5575,Champions
+5576,"At Risk"
+5577,Champions
+5578,Champions
+5580,"Lost or Sleeping"
+5581,Champions
+5582,"Lost or Sleeping"
+5584,"Lost or Sleeping"
+5585,Champions
+5586,"Lost or Sleeping"
+5587,Champions
+5588,"Lost or Sleeping"
+5589,Champions
+5591,"Lost or Sleeping"
+5592,Champions
+5593,Champions
+5594,"Lost or Sleeping"
+5595,"New or Occasional"
+5596,"Lost or Sleeping"
+5597,"Lost or Sleeping"
+5599,"Lost or Sleeping"
+5600,Champions
+5601,"Lost or Sleeping"
+5602,"At Risk"
+5603,Champions
+5605,Champions
+5607,"New or Occasional"
+5608,"Lost or Sleeping"
+5609,Champions
+5610,"Lost or Sleeping"
+5611,"At Risk"
+5612,"Lost or Sleeping"
+5615,"At Risk"
+5616,"New or Occasional"
+5617,"At Risk"
+5618,Champions
+5619,"At Risk"
+5620,"Lost or Sleeping"
+5621,Champions
+5623,Champions
+5624,"Lost or Sleeping"
+5625,Champions
+5626,"Lost or Sleeping"
+5627,"Lost or Sleeping"
+5628,"New or Occasional"
+5629,"New or Occasional"
+5630,"New or Occasional"
+5631,Champions
+5632,"At Risk"
+5633,Champions
+5634,"Lost or Sleeping"
+5635,Champions
+5636,"New or Occasional"
+5637,"Lost or Sleeping"
+5638,"At Risk"
+5639,"At Risk"
+5640,"Lost or Sleeping"
+5641,"Lost or Sleeping"
+5642,"Lost or Sleeping"
+5643,"At Risk"
+5644,"Lost or Sleeping"
+5645,"Lost or Sleeping"
+5646,Champions
+5648,"At Risk"
+5649,Champions
+5650,"New or Occasional"
+5652,Champions
+5653,"New or Occasional"
+5654,"Lost or Sleeping"
+5655,"Lost or Sleeping"
+5656,"At Risk"
+5657,Champions
+5658,Champions
+5659,"Lost or Sleeping"
+5662,"New or Occasional"
+5663,Champions
+5664,"At Risk"
+5665,"New or Occasional"
+5666,Champions
+5667,Champions
+5668,"Lost or Sleeping"
+5669,"Lost or Sleeping"
+5671,"Lost or Sleeping"
+5672,"Lost or Sleeping"
+5674,"New or Occasional"
+5675,"Lost or Sleeping"
+5677,"Lost or Sleeping"
+5678,"Lost or Sleeping"
+5680,Champions
+5681,"At Risk"
+5682,"New or Occasional"
+5683,"Lost or Sleeping"
+5684,"At Risk"
+5685,"At Risk"
+5686,Champions
+5687,"New or Occasional"
+5688,"At Risk"
+5689,"New or Occasional"
+5690,"Lost or Sleeping"
+5691,"Lost or Sleeping"
+5692,Champions
+5693,Champions
+5694,Champions
+5695,"Lost or Sleeping"
+5696,Champions
+5697,"Lost or Sleeping"
+5698,"Lost or Sleeping"
+5700,Champions
+5701,"Lost or Sleeping"
+5702,"New or Occasional"
+5704,Champions
+5705,"New or Occasional"
+5707,Champions
+5708,Champions
+5710,"Lost or Sleeping"
+5711,Champions
+5712,"At Risk"
+5713,"At Risk"
+5714,Champions
+5716,"Lost or Sleeping"
+5717,"New or Occasional"
+5718,"Lost or Sleeping"
+5719,"Lost or Sleeping"
+5720,Champions
+5722,"Lost or Sleeping"
+5723,"New or Occasional"
+5724,"At Risk"
+5725,"Lost or Sleeping"
+5729,"Lost or Sleeping"
+5730,"Lost or Sleeping"
+5731,"At Risk"
+5732,Champions
+5733,Champions
+5734,"Lost or Sleeping"
+5735,"At Risk"
+5736,Champions
+5737,"Lost or Sleeping"
+5738,"Lost or Sleeping"
+5739,Champions
+5741,"New or Occasional"
+5742,"At Risk"
+5743,Champions
+5744,"At Risk"
+5746,"Lost or Sleeping"
+5747,"At Risk"
+5748,"At Risk"
+5749,"Lost or Sleeping"
+5750,"Lost or Sleeping"
+5751,"New or Occasional"
+5753,Champions
+5754,"Lost or Sleeping"
+5755,"At Risk"
+5756,Champions
+5758,Champions
+5759,"New or Occasional"
+5760,"New or Occasional"
+5761,"Lost or Sleeping"
+5762,"New or Occasional"
+5763,"Lost or Sleeping"
+5764,Champions
+5765,"Lost or Sleeping"
+5766,Champions
+5768,"At Risk"
+5769,Champions
+5770,Champions
+5771,"Lost or Sleeping"
+5772,Champions
+5773,"Lost or Sleeping"
+5774,Champions
+5775,"New or Occasional"
+5777,"Lost or Sleeping"
+5778,"Lost or Sleeping"
+5779,Champions
+5780,"Lost or Sleeping"
+5781,"Lost or Sleeping"
+5783,Champions
+5784,"New or Occasional"
+5785,"Lost or Sleeping"
+5786,"At Risk"
+5787,"Lost or Sleeping"
+5788,Champions
+5789,"Lost or Sleeping"
+5790,"At Risk"
+5791,Champions
+5792,"At Risk"
+5794,"Lost or Sleeping"
+5795,"New or Occasional"
+5796,"Lost or Sleeping"
+5797,"Lost or Sleeping"
+5798,Champions
+5802,"Lost or Sleeping"
+5803,"New or Occasional"
+5804,"New or Occasional"
+5805,"New or Occasional"
+5806,Champions
+5807,Champions
+5809,"At Risk"
+5811,"Lost or Sleeping"
+5812,"Lost or Sleeping"
+5813,Champions
+5814,"Lost or Sleeping"
+5815,Champions
+5816,"At Risk"
+5817,"New or Occasional"
+5818,"Lost or Sleeping"
+5819,"Lost or Sleeping"
+5820,"At Risk"
+5823,Champions
+5824,"At Risk"
+5825,"Lost or Sleeping"
+5827,"New or Occasional"
+5829,"Lost or Sleeping"
+5830,"At Risk"
+5832,"Lost or Sleeping"
+5833,"At Risk"
+5834,Champions
+5835,Champions
+5837,"Lost or Sleeping"
+5838,"Lost or Sleeping"
+5839,"Lost or Sleeping"
+5840,"Lost or Sleeping"
+5841,Champions
+5842,Champions
+5843,Champions
+5844,"Lost or Sleeping"
+5845,Champions
+5846,"Lost or Sleeping"
+5847,"New or Occasional"
+5848,Champions
+5850,"Lost or Sleeping"
+5851,Champions
+5852,"Lost or Sleeping"
+5853,"Lost or Sleeping"
+5855,Champions
+5856,"At Risk"
+5857,"At Risk"
+5858,Champions
+5859,Champions
+5860,"At Risk"
+5862,Champions
+5863,"New or Occasional"
+5864,"Lost or Sleeping"
+5865,"Lost or Sleeping"
+5866,"New or Occasional"
+5868,"New or Occasional"
+5869,"Lost or Sleeping"
+5870,"At Risk"
+5871,"At Risk"
+5872,Champions
+5873,"At Risk"
+5874,"Lost or Sleeping"
+5875,"Lost or Sleeping"
+5876,"Lost or Sleeping"
+5877,"Lost or Sleeping"
+5878,Champions
+5880,"Lost or Sleeping"
+5881,"At Risk"
+5884,"Lost or Sleeping"
+5885,"At Risk"
+5886,Champions
+5887,Champions
+5888,"Lost or Sleeping"
+5889,Champions
+5891,Champions
+5892,Champions
+5895,"Lost or Sleeping"
+5896,Champions
+5897,"At Risk"
+5898,Champions
+5899,"Lost or Sleeping"
+5900,"Lost or Sleeping"
+5901,"Lost or Sleeping"
+5902,"Lost or Sleeping"
+5903,Champions
+5904,"Lost or Sleeping"
+5905,"New or Occasional"
+5906,Champions
+5907,Champions
+5908,"New or Occasional"
+5909,"Lost or Sleeping"
+5911,"Lost or Sleeping"
+5913,"At Risk"
+5915,Champions
+5917,"Lost or Sleeping"
+5918,Champions
+5919,Champions
+5920,"New or Occasional"
+5921,Champions
+5922,"New or Occasional"
+5923,Champions
+5925,"At Risk"
+5927,"New or Occasional"
+5928,"New or Occasional"
+5930,"New or Occasional"
+5931,Champions
+5932,"At Risk"
+5934,"Lost or Sleeping"
+5936,"At Risk"
+5937,"New or Occasional"
+5938,"At Risk"
+5939,Champions
+5940,"New or Occasional"
+5941,Champions
+5942,"At Risk"
+5944,Champions
+5945,"Lost or Sleeping"
+5948,Champions
+5949,Champions
+5950,Champions
+5951,"Lost or Sleeping"
+5952,"At Risk"
+5953,"At Risk"
+5954,Champions
+5955,Champions
+5956,"Lost or Sleeping"
+5958,Champions
+5959,"At Risk"
+5960,"At Risk"
+5961,Champions
+5962,"Lost or Sleeping"
+5963,"At Risk"
+5964,"New or Occasional"
+5966,Champions
+5968,"New or Occasional"
+5969,"At Risk"
+5970,"New or Occasional"
+5971,"New or Occasional"
+5972,"At Risk"
+5973,Champions
+5974,"Lost or Sleeping"
+5977,Champions
+5978,"Lost or Sleeping"
+5979,"New or Occasional"
+5981,"At Risk"
+5982,Champions
+5984,"Lost or Sleeping"
+5985,"At Risk"
+5986,"At Risk"
+5987,Champions
+5988,Champions
+5989,"New or Occasional"
+5990,"Lost or Sleeping"
+5991,"At Risk"
+5992,"Lost or Sleeping"
+5994,Champions
+5995,"At Risk"
+5996,"Lost or Sleeping"
+5997,"Lost or Sleeping"
+5998,Champions
+5999,Champions
+6000,Champions

@@ -1,0 +1,21 @@
+store_id,city,region,store_size,store_name
+1,Mumbai,West,Large,Store Mumbai
+2,Pune,West,Medium,Store Pune
+3,Ahmedabad,West,Medium,Store Ahmedabad
+4,Delhi,North,Large,Store Delhi
+5,Gurugram,North,Medium,Store Gurugram
+6,Jaipur,North,Small,Store Jaipur
+7,Lucknow,North,Small,Store Lucknow
+8,Chandigarh,North,Small,Store Chandigarh
+9,Bengaluru,South,Large,Store Bengaluru
+10,Chennai,South,Large,Store Chennai
+11,Hyderabad,South,Large,Store Hyderabad
+12,Kochi,South,Small,Store Kochi
+13,Coimbatore,South,Small,Store Coimbatore
+14,Kolkata,East,Large,Store Kolkata
+15,Bhubaneswar,East,Small,Store Bhubaneswar
+16,Patna,East,Small,Store Patna
+17,Bhopal,Central,Medium,Store Bhopal
+18,Indore,Central,Medium,Store Indore
+19,Jabalpur,Central,Small,Store Jabalpur
+20,Nagpur,Central,Medium,Store Nagpur

@@ -1,0 +1,201 @@
+product_id,product_name,category,list_price,cost_price,brand
+1,Grocery-01,Grocery Staples,229.0,204.89,BrandB
+2,Grocery-02,Grocery Staples,313.0,272.09,BrandD
+3,Grocery-03,Grocery Staples,117.0,106.86,BrandA
+4,Grocery-04,Grocery Staples,193.0,168.16,BrandC
+5,Grocery-05,Grocery Staples,85.0,75.97,Private Label
+6,Grocery-06,Grocery Staples,62.0,56.31,Private Label
+7,Grocery-07,Grocery Staples,67.0,58.68,Private Label
+8,Grocery-08,Grocery Staples,272.0,237.72,BrandA
+9,Grocery-09,Grocery Staples,272.0,236.02,BrandB
+10,Grocery-10,Grocery Staples,78.0,68.25,BrandA
+11,Grocery-11,Grocery Staples,63.0,57.68,BrandA
+12,Grocery-12,Grocery Staples,185.0,161.63,BrandD
+13,Grocery-13,Grocery Staples,115.0,101.42,BrandD
+14,Grocery-14,Grocery Staples,52.0,45.55,BrandD
+15,Grocery-15,Grocery Staples,147.0,127.9,Private Label
+16,Grocery-16,Grocery Staples,143.0,126.19,BrandD
+17,Grocery-17,Grocery Staples,43.0,38.26,Private Label
+18,Grocery-18,Grocery Staples,102.0,88.21,BrandA
+19,Grocery-19,Grocery Staples,46.0,41.36,BrandA
+20,Grocery-20,Grocery Staples,184.0,162.39,BrandC
+21,Grocery-21,Grocery Staples,185.0,164.95,Private Label
+22,Grocery-22,Grocery Staples,59.0,53.96,BrandA
+23,Grocery-23,Grocery Staples,211.0,187.43,BrandC
+24,Grocery-24,Grocery Staples,127.0,115.17,BrandD
+25,Grocery-25,Grocery Staples,112.0,100.03,BrandA
+26,Grocery-26,Grocery Staples,171.0,152.92,BrandB
+27,Grocery-27,Grocery Staples,52.0,44.63,Private Label
+28,Grocery-28,Grocery Staples,200.0,180.01,BrandD
+29,Grocery-29,Grocery Staples,240.0,209.52,BrandA
+30,Grocery-30,Grocery Staples,75.0,68.27,Private Label
+31,Beverages-01,Beverages,50.0,37.98,BrandB
+32,Beverages-02,Beverages,64.0,48.86,Private Label
+33,Beverages-03,Beverages,92.0,62.75,BrandB
+34,Beverages-04,Beverages,71.0,49.87,BrandC
+35,Beverages-05,Beverages,24.0,17.46,BrandB
+36,Beverages-06,Beverages,54.0,39.99,BrandB
+37,Beverages-07,Beverages,25.0,17.55,Private Label
+38,Beverages-08,Beverages,129.0,90.67,BrandA
+39,Beverages-09,Beverages,66.0,51.91,BrandA
+40,Beverages-10,Beverages,53.0,35.65,BrandB
+41,Beverages-11,Beverages,53.0,37.97,BrandD
+42,Beverages-12,Beverages,63.0,45.3,Private Label
+43,Beverages-13,Beverages,39.0,27.76,Private Label
+44,Beverages-14,Beverages,21.0,13.99,BrandB
+45,Beverages-15,Beverages,27.0,19.09,BrandB
+46,Beverages-16,Beverages,77.0,57.58,BrandA
+47,Beverages-17,Beverages,87.0,58.7,BrandC
+48,Beverages-18,Beverages,127.0,95.94,Private Label
+49,Beverages-19,Beverages,61.0,44.8,BrandD
+50,Beverages-20,Beverages,102.0,75.73,BrandC
+51,Beverages-21,Beverages,36.0,25.66,BrandB
+52,Beverages-22,Beverages,132.0,101.02,Private Label
+53,Beverages-23,Beverages,48.0,30.77,BrandC
+54,Beverages-24,Beverages,90.0,59.07,BrandA
+55,Beverages-25,Beverages,57.0,42.33,BrandB
+56,Snacks-01,Snacks,73.0,54.87,BrandA
+57,Snacks-02,Snacks,94.0,72.12,BrandA
+58,Snacks-03,Snacks,21.0,16.52,BrandA
+59,Snacks-04,Snacks,16.0,12.46,BrandB
+60,Snacks-05,Snacks,137.0,106.38,BrandC
+61,Snacks-06,Snacks,103.0,68.8,BrandB
+62,Snacks-07,Snacks,15.0,12.03,BrandB
+63,Snacks-08,Snacks,15.0,10.64,Private Label
+64,Snacks-09,Snacks,46.0,32.51,BrandD
+65,Snacks-10,Snacks,18.0,12.45,BrandC
+66,Snacks-11,Snacks,92.0,72.28,BrandB
+67,Snacks-12,Snacks,25.0,18.39,Private Label
+68,Snacks-13,Snacks,175.0,133.68,BrandA
+69,Snacks-14,Snacks,11.0,7.99,BrandB
+70,Snacks-15,Snacks,14.0,10.98,Private Label
+71,Snacks-16,Snacks,181.0,130.42,BrandC
+72,Snacks-17,Snacks,111.0,81.98,BrandD
+73,Snacks-18,Snacks,11.0,8.68,BrandC
+74,Snacks-19,Snacks,109.0,84.09,BrandC
+75,Snacks-20,Snacks,61.0,41.63,BrandB
+76,Snacks-21,Snacks,34.0,25.55,BrandA
+77,Snacks-22,Snacks,70.0,47.78,BrandB
+78,Snacks-23,Snacks,21.0,16.19,BrandA
+79,Snacks-24,Snacks,115.0,90.77,Private Label
+80,Snacks-25,Snacks,59.0,46.23,BrandB
+81,Snacks-26,Snacks,25.0,19.6,BrandC
+82,Snacks-27,Snacks,16.0,12.23,BrandD
+83,Snacks-28,Snacks,14.0,11.21,BrandD
+84,Snacks-29,Snacks,17.0,13.54,BrandB
+85,Snacks-30,Snacks,77.0,57.66,BrandC
+86,Personal-01,Personal Care,160.0,96.3,Private Label
+87,Personal-02,Personal Care,55.0,39.78,BrandD
+88,Personal-03,Personal Care,89.0,58.3,Private Label
+89,Personal-04,Personal Care,56.0,38.62,Private Label
+90,Personal-05,Personal Care,63.0,38.38,BrandD
+91,Personal-06,Personal Care,421.0,310.55,BrandA
+92,Personal-07,Personal Care,400.0,233.43,BrandC
+93,Personal-08,Personal Care,301.0,193.41,BrandA
+94,Personal-09,Personal Care,68.0,44.96,BrandC
+95,Personal-10,Personal Care,360.0,242.64,Private Label
+96,Personal-11,Personal Care,218.0,154.42,BrandC
+97,Personal-12,Personal Care,150.0,102.31,BrandB
+98,Personal-13,Personal Care,117.0,80.83,BrandA
+99,Personal-14,Personal Care,120.0,76.2,Private Label
+100,Personal-15,Personal Care,444.0,264.02,BrandA
+101,Personal-16,Personal Care,106.0,70.1,BrandA
+102,Personal-17,Personal Care,225.0,138.2,BrandA
+103,Personal-18,Personal Care,215.0,151.48,BrandA
+104,Personal-19,Personal Care,80.0,50.67,BrandB
+105,Personal-20,Personal Care,206.0,152.1,BrandC
+106,Personal-21,Personal Care,61.0,36.06,BrandB
+107,Personal-22,Personal Care,455.0,279.75,BrandA
+108,Personal-23,Personal Care,303.0,186.6,BrandA
+109,Personal-24,Personal Care,90.0,58.66,BrandB
+110,Personal-25,Personal Care,207.0,150.08,BrandA
+111,Personal-26,Personal Care,187.0,125.94,BrandD
+112,Personal-27,Personal Care,290.0,178.39,BrandA
+113,Personal-28,Personal Care,199.0,117.81,BrandB
+114,Personal-29,Personal Care,65.0,48.08,BrandB
+115,Personal-30,Personal Care,131.0,81.15,BrandB
+116,Home-01,Home & Kitchen,383.0,215.75,BrandA
+117,Home-02,Home & Kitchen,321.0,213.4,BrandA
+118,Home-03,Home & Kitchen,234.0,165.19,Private Label
+119,Home-04,Home & Kitchen,514.0,339.84,BrandA
+120,Home-05,Home & Kitchen,711.0,395.41,BrandC
+121,Home-06,Home & Kitchen,578.0,382.92,BrandC
+122,Home-07,Home & Kitchen,1130.0,625.2,BrandB
+123,Home-08,Home & Kitchen,1642.0,1006.47,BrandB
+124,Home-09,Home & Kitchen,785.0,473.86,BrandD
+125,Home-10,Home & Kitchen,539.0,311.1,Private Label
+126,Home-11,Home & Kitchen,545.0,354.23,BrandB
+127,Home-12,Home & Kitchen,1987.0,1163.5,BrandB
+128,Home-13,Home & Kitchen,2479.0,1405.47,BrandA
+129,Home-14,Home & Kitchen,1580.0,1127.77,BrandC
+130,Home-15,Home & Kitchen,193.0,108.77,BrandD
+131,Home-16,Home & Kitchen,295.0,208.51,BrandA
+132,Home-17,Home & Kitchen,262.0,146.98,BrandB
+133,Home-18,Home & Kitchen,166.0,121.67,Private Label
+134,Home-19,Home & Kitchen,825.0,479.92,BrandA
+135,Home-20,Home & Kitchen,1637.0,1183.76,BrandB
+136,Home-21,Home & Kitchen,2040.0,1198.09,BrandD
+137,Home-22,Home & Kitchen,1585.0,1151.3,BrandA
+138,Home-23,Home & Kitchen,213.0,135.92,BrandA
+139,Home-24,Home & Kitchen,883.0,505.33,BrandA
+140,Home-25,Home & Kitchen,1185.0,826.33,Private Label
+141,Electronics-01,Electronics Acc.,1523.0,707.36,BrandA
+142,Electronics-02,Electronics Acc.,233.0,127.3,BrandA
+143,Electronics-03,Electronics Acc.,2511.0,1319.14,BrandA
+144,Electronics-04,Electronics Acc.,259.0,166.72,BrandA
+145,Electronics-05,Electronics Acc.,741.0,376.86,BrandC
+146,Electronics-06,Electronics Acc.,1027.0,669.96,BrandA
+147,Electronics-07,Electronics Acc.,472.0,261.93,BrandC
+148,Electronics-08,Electronics Acc.,1280.0,605.91,BrandC
+149,Electronics-09,Electronics Acc.,855.0,507.95,Private Label
+150,Electronics-10,Electronics Acc.,280.0,183.35,BrandA
+151,Electronics-11,Electronics Acc.,477.0,280.82,Private Label
+152,Electronics-12,Electronics Acc.,1228.0,727.4,BrandC
+153,Electronics-13,Electronics Acc.,371.0,205.03,BrandA
+154,Electronics-14,Electronics Acc.,221.0,130.58,BrandD
+155,Electronics-15,Electronics Acc.,380.0,211.35,Private Label
+156,Electronics-16,Electronics Acc.,1489.0,802.89,BrandB
+157,Electronics-17,Electronics Acc.,493.0,250.36,Private Label
+158,Electronics-18,Electronics Acc.,686.0,373.28,BrandB
+159,Electronics-19,Electronics Acc.,866.0,449.66,BrandC
+160,Electronics-20,Electronics Acc.,2791.0,1595.57,Private Label
+161,Apparel-01,Apparel,1891.0,1080.49,BrandB
+162,Apparel-02,Apparel,934.0,580.05,Private Label
+163,Apparel-03,Apparel,2084.0,1325.65,BrandB
+164,Apparel-04,Apparel,646.0,391.96,BrandD
+165,Apparel-05,Apparel,1657.0,1070.97,BrandC
+166,Apparel-06,Apparel,2155.0,1200.19,BrandA
+167,Apparel-07,Apparel,1195.0,741.0,BrandB
+168,Apparel-08,Apparel,2726.0,1093.49,BrandB
+169,Apparel-09,Apparel,612.0,292.59,BrandA
+170,Apparel-10,Apparel,731.0,358.03,BrandA
+171,Apparel-11,Apparel,484.0,251.06,BrandB
+172,Apparel-12,Apparel,438.0,193.12,BrandA
+173,Apparel-13,Apparel,1078.0,474.57,BrandA
+174,Apparel-14,Apparel,414.0,222.71,BrandD
+175,Apparel-15,Apparel,360.0,166.02,BrandD
+176,Apparel-16,Apparel,882.0,540.08,BrandD
+177,Apparel-17,Apparel,2422.0,1547.26,BrandB
+178,Apparel-18,Apparel,586.0,309.09,Private Label
+179,Apparel-19,Apparel,933.0,586.83,BrandC
+180,Apparel-20,Apparel,2092.0,1026.34,BrandA
+181,Apparel-21,Apparel,1402.0,643.9,BrandA
+182,Apparel-22,Apparel,696.0,358.52,BrandD
+183,Apparel-23,Apparel,2096.0,1109.53,BrandA
+184,Apparel-24,Apparel,2133.0,1117.27,BrandC
+185,Apparel-25,Apparel,1158.0,506.55,Private Label
+186,Stationery-01,Stationery,77.0,47.26,BrandA
+187,Stationery-02,Stationery,59.0,31.66,BrandA
+188,Stationery-03,Stationery,32.0,20.87,Private Label
+189,Stationery-04,Stationery,21.0,11.22,BrandC
+190,Stationery-05,Stationery,46.0,27.61,BrandA
+191,Stationery-06,Stationery,42.0,24.33,Private Label
+192,Stationery-07,Stationery,286.0,170.44,Private Label
+193,Stationery-08,Stationery,157.0,84.68,BrandC
+194,Stationery-09,Stationery,272.0,153.3,BrandC
+195,Stationery-10,Stationery,27.0,15.48,BrandB
+196,Stationery-11,Stationery,89.0,52.44,BrandA
+197,Stationery-12,Stationery,288.0,190.76,BrandC
+198,Stationery-13,Stationery,152.0,98.91,BrandB
+199,Stationery-14,Stationery,22.0,12.42,BrandC
+200,Stationery-15,Stationery,288.0,180.58,Private Label
